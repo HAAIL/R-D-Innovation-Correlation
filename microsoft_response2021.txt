@@ -1,0 +1,525 @@
+1. Delegating authorization
+2. Access control
+3. Data isolation
+4. Resource identifiers
+5. Remote data repositories
+6. Authorization indication
+7. Access prohibition1. Video encoding
+2. Video decoding
+3. Latency reduction techniques
+4. Frame reordering
+5. Real-time communication
+6. Syntax elements
+7. Inter-frame dependencies
+8. Video sequence
+9. Reconstructed frames
+10. Output order1. Zoned time-of-flight (ToF) arrangement
+2. Sensor
+3. Steerable light source
+4. Illumination beam
+5. Angular extent
+6. Field of view (FoV)
+7. Region of interest
+8. Depth map
+9. Ambient performance
+10. Maximum range
+11. Jitter
+12. Steering alternative configurations
+13. Mechanical solution
+14. Electro optical solution
+15. Electrowetting solution1. Privileged identity management system
+2. Method for managing privileged identities
+3. Requesting elevated privileges
+4. Computing systems and software applications
+5. Extending elevated privileges
+6. Accessing privileged features
+7. Performing tasks with elevated privileges
+8. Utilizing a different device for communications
+9. Elevated privilege-related communications1. Electronic communications
+2. Tasks applications
+3. Calendaring applications
+4. Text content retrieval
+5. Keyword extraction
+6. Text classification
+7. Task identification
+8. Calendar items
+9. Meeting requests
+10. Calendar entries1. Content recommendation systems
+2. Electronic communication
+3. Web content
+4. Link sharing
+5. Common entity
+6. Content propagation threshold1. Speech encoding
+2. Speech decoding
+3. Phase quantization
+4. Phase reconstruction
+5. Basis functions
+6. Speech codec
+7. Low bitrate scenarios
+8. Insufficient bandwidth
+9. Transmission quality problems1. Adaptive encoding and decoding
+2. Coding efficiency
+3. Color spaces
+4. Quantization
+5. Scaling
+6. Encoder
+7. Decoder1. Video codec
+2. Quantization step size
+3. Variation of quality
+4. Bit rate
+5. Bit stream syntax
+6. Syntax element
+7. Quantizer scale step sizes1. Techniques and tools for decoding jointly coded information
+2. Variable length code (VLC) decoding
+3. Transform type signal level decoding
+4. Transform type decoding
+5. Subblock pattern decoding
+6. Selection of multiple VLC tables
+7. Macroblock level decoding
+8. Block level decoding.1. Temperature sensing devices
+2. Flexible support
+3. Temperature sensing junctions
+4. Conductive materials1. Head-mounted eyepiece
+2. Interactive display
+3. Integrated processor
+4. Content handling
+5. Image source
+6. Optical assembly
+7. User interface
+8. Surrounding environment
+9. Predictive control
+10. External device
+11. Event input1. Telemetry system
+2. Schema
+3. Event definition
+4. Logging library
+5. Instrumented application
+6. Base field
+7. Conditional field1. Computer vision
+2. Image data processing
+3. Camera calibration
+4. Human detection
+5. Skeletal representation
+6. Ground plane estimation
+7. Object tracking1. Language interface
+2. Automated assistants
+3. Dialogue assistants
+4. Domains and applications
+5. Language structure data
+6. Schemas
+7. Recognizers
+8. Resolvers
+9. Constraints and invariants
+10. Actions
+11. Language hints
+12. Generation template
+13. Specification data
+14. Interactive dialogue
+15. User interaction
+16. Mapping domains and applications
+17. Learning new domains
+18. Efficient learning systems1. Digital media encoding/decoding
+2. Quantization techniques
+3. Spatial quantization
+4. Frequency sub bands quantization
+5. Color channels quantization
+6. Signaling schemes for quantization combinations
+7. Efficient encoding of quantizers
+8. Subset of quantizers
+9. Indexing quantizers
+10. Primary usage scenarios1. Content-adaptive deblocking
+2. Video images
+3. Block-based motion-predictive video coding
+4. Edge information
+5. Global orientation energy edge detection (OEED)
+6. Local directional features (LDFs)
+7. Directional deblocking filter
+8. Image details
+9. Blocking artifacts
+10. Extra smoothing1. Video encoder
+2. Video decoder
+3. Global reference picture set
+4. Conventional reference pictures
+5. Random access boundaries
+6. Reference picture clipping
+7. Memory utilization
+8. Motion compensation
+9. Reference picture filtering
+10. Random noise removal
+11. Camera imperfections1. Thin-client web browsing framework
+2. Cooperative web browsing
+3. Multiple devices
+4. Proxy server
+5. Virtual browser
+6. Browser-engine logics
+7. Web pages
+8. Decoding and display capabilities
+9. Touch controller
+10. User texting or manipulating capabilities1. Data compression
+2. Video coding
+3. Encoder
+4. Decoder
+5. Scanning process
+6. Block transformation
+7. Prediction
+8. Block size1. Digital signal processing
+2. Plug-in implementation
+3. User interface
+4. Digital signal processing logic
+5. Plug-in process
+6. Operation control
+7. Two-way communication link
+8. Host
+9. Research and development1. Intra block copy prediction
+2. Block encoding/decoding
+3. Hardware-based implementations
+4. On-chip memory buffers
+5. Off-chip memory buffers
+6. Memory access operations
+7. Compression efficiency1. Chroma quantization parameter ("QP") offsets
+2. Control parameter for deblock filtering
+3. Encoding of a slice of a picture
+4. Deblock filtering
+5. Picture-level chroma QP offset
+6. Slice-level chroma QP offset
+7. Bitstream
+8. Decoding of a slice of a picture
+9. Corresponding decoder
+10. Control parameter for deblock filtering derivation
+11. Encoded content1. Wide memory operations
+2. Data cache
+3. Memory
+4. Wide memory load circuit
+5. Cache line
+6. Writeback circuit
+7. Operand buffer
+8. Sharding circuit
+9. Bitwise manipulation
+10. Byte-wise manipulation
+11. Word-wise manipulation
+12. Memory operation data
+13. Wide cache loads
+14. Plural execution lanes1. Database system
+2. Access control framework
+3. User roles
+4. Access policy
+5. Rule application
+6. Query rewriting1. Synchronization protocol
+2. File data synchronization
+3. Data transport protocol
+4. Processing device
+5. Accessing file data
+6. Microsoft1. Encoder-side decisions
+2. Hash-based block matching
+3. Hash tables
+4. Uniform blocks
+5. Motion vector resolution
+6. Scene change detection
+7. Long-term reference picture selection
+8. Picture quality determination
+9. Encoding1. System software
+2. Computing device
+3. Network edge
+4. Local network
+5. Cloud service
+6. Method
+7. Booting
+8. System disk image
+9. Server computing device1. Thumbnail prioritization
+2. Relevance ranking
+3. File identification
+4. File storage
+5. Message recipients
+6. User burden reduction
+7. User efficiency improvement
+8. User experience improvement1. Data storage
+2. Encoding
+3. Data-storage medium
+4. Measurement
+5. Data decoder
+6. Machine-learning function
+7. Layout
+8. Data locations
+9. Probability values
+10. Data value
+11. Actual data value
+12. Previously recorded pattern of data1. Windowing system
+2. User interface element
+3. Computing device
+4. Application windows
+5. Application group
+6. Target applications
+7. Indicia
+8. User-selectable graphic application indicators1. Research and development
+2. Computer search service
+3. Enterprise graph query
+4. Client computing device
+5. Remote access
+6. Actor object set
+7. Target object set
+8. Relationship
+9. Results
+10. User input
+11. Persistence
+12. Entity
+13. Subscription entry1. Document creation and management
+2. Contact creation and management
+3. Content integration across applications
+4. Contact data transmission
+5. Application integration1. Personal digital assistant
+2. Social network
+3. Card sharing
+4. Acceptance level
+5. Whitelist
+6. Local groups
+7. Runtime
+8. Endpoint
+9. Personalized content
+10. Multiple users
+11. Proactive canvas
+12. User engagement history
+13. Conflation
+14. Push notifications
+15. Filtering1. Innovations in signaling of reference picture list modification information
+2. Video encoder evaluation of conditions based on total reference pictures
+3. Syntax elements explicitly signaled in the bitstream for RPL modification
+4. Video decoder evaluation of conditions for modified RPL
+5. Parsing a flag from the bitstream indicating RPL modification
+6. Processing of RPL modification structure
+7. Processing of slice header
+8. Evaluation of conditions affecting syntax elements for RPL modification information
+9. List entries of RPL modification information1. Video coding
+2. Coding units
+3. Pixel values
+4. Rate-distortion constraints
+5. Transformations1. Sound rendering
+2. Directional sound
+3. Impulse responses
+4. Sound source locations
+5. Listener location
+6. Encoding
+7. Departure direction parameters
+8. Individual sound source locations
+9. Rendering of sound1. User interface
+2. List view
+3. Reading pane
+4. Message reading application
+5. Synchronizing status and parameters
+6. Conversation
+7. Message map
+8. Content view
+9. Message selection
+10. Display and selection1. User-Input Device
+2. Trigger
+3. Trigger Axle
+4. Motor
+5. Worm Gear
+6. Reduction Gear1. Virtual keyboards
+2. Finger movement detection
+3. Key volumes
+4. Parameter changes
+5. Key sequences1. Device fabrication
+2. Lengths of material
+3. Junction
+4. Masking phase
+5. Trenches
+6. Underlying layer
+7. Selective area growth phase
+8. Material growth
+9. Joining lengths of material1. Computer system
+2. Processor
+3. Host virtual machine
+4. Operating system
+5. Multi-media framework
+6. Media content
+7. Media application
+8. Media source
+9. Encoded media content
+10. Decoding module
+11. Multi-media redirection module
+12. Client computer device1. Computer system
+2. Processor
+3. Host virtual machine
+4. Client computer device
+5. Web browser application
+6. Media content
+7. Remote media source
+8. Encoded media content
+9. Media container format
+10. Multi-media redirection module
+11. Decoding module1. Session tracking
+2. Automated queuing
+3. Multiplayer games
+4. Central system
+5. Host/streamer client device
+6. Guest player client devices
+7. Content stream
+8. Spectators
+9. Multiplayer activity
+10. Network
+11. Game/streaming service
+12. Queue
+13. Session participation
+14. User characteristics
+15. Prior guest players
+16. Start and end events
+17. Re-queueing1. User actions
+2. Content feed
+3. Information items
+4. Peers
+5. Organizational relationship
+6. Communication
+7. Elevated peers
+8. Trending topics1. Neural network
+2. SIMD array
+3. Processor
+4. Computation
+5. Weight
+6. Accumulate
+7. MAC instruction cycle
+8. Memory
+9. Input
+10. Crossbar
+11. Route
+12. Second memory1. Directional sound rendering
+2. Impulse responses
+3. Sound source locations
+4. Listener location
+5. Encoding
+6. Departure direction parameters
+7. Sound rendering1. Virtual interrupts
+2. Hypervisor
+3. Host machine
+4. Virtual processors
+5. Priority of interrupts
+6. Priority of virtual processor
+7. Current workload of virtual processor1. Head mounted display
+2. Display device
+3. Camera device
+4. Input device
+5. Processor
+6. Database
+7. Physical objects
+8. Virtual objects
+9. Semantic tags
+10. Natural language input
+11. Semantic processing
+12. User specified operation
+13. Target virtual object
+14. Target physical object
+15. Physical location1. Research and development activities
+2. Method of selectively patterning a device structure
+3. Hollow shadow wall formation
+4. Substrate surface
+5. Base and side walls of the hollow shadow wall
+6. Internal cavity of the hollow shadow wall
+7. Device structure patterning
+8. Deposition beam
+9. Selective deposition of deposition material
+10. Angle of incidence
+11. Normal to the surface of the substrate
+12. Orientation in the plane of the substrate's surface
+13. Shadow region defined by the shadow wall
+14. Removal of side walls of the hollow shadow wall
+15. Selective patterning of the device component1. Data processing
+2. Streaming data
+3. Recovery mechanisms
+4. Processor failure
+5. Data partitioning
+6. Parity chunks
+7. Processor-based processing
+8. Data chunk processing
+9. Data chunk retrieval
+10. Processor-based data retrieval.1. Eye-gaze dwell-times
+2. Dynamic dwell-times
+3. Individual user customization
+4. User data collection
+5. Action execution duration
+6. Application usage
+7. Word suggestion selection
+8. Preventing unintended selections
+9. Different dwell times for buttons
+10. Critical keys on user interface
+11. Less critical keys on virtual keyboard
+12. Spacebar and backspace functions1. Conversational agents
+2. Natural language processing
+3. Document matching
+4. Query-response pairs
+5. Sentence selection
+6. Adaptive response generation
+7. User experience enhancement
+8. Chatbot scenario1. Intelligent UI element selection system
+2. Eye-gaze technology
+3. UI element selection zone
+4. Gaze input
+5. User intent
+6. Gaze locations
+7. Proximity to UI element
+8. Relation to UI element's selection zone
+9. UI element threshold
+10. UI element selection1. Operating system service
+2. Persistently executing programs
+3. Registration service
+4. Manifest
+5. Persistence mode
+6. User-controllable program
+7. Runtime service
+8. Termination requests
+9. Program termination
+10. Restart execution1. Video processing applications
+2. Fading compensation
+3. Techniques and tools
+4. Encoding
+5. Video encoder
+6. Fading parameters
+7. Scaling parameter
+8. Shifting parameter
+9. Reference images
+10. Decoding
+11. Video decoder1. Computing devices
+2. Tools for visually exploring datasets
+3. Multi-dimensional data structures
+4. Subspaces of data structures
+5. Data points
+6. Visualizations of calculations
+7. User selections in visualizations
+8. Semantic graphical features
+9. Types of calculations1. Querying data
+2. Distributed storage system
+3. Front-end node
+4. Data nodes
+5. Blocks of an object
+6. Query results
+7. Incomplete records
+8. Physical devices1. Encoder-side options
+2. Intra block copy prediction mode
+3. Rate-distortion performance
+4. Computational efficiency
+5. Encoding
+6. Block vector estimation
+7. Block splitting decisions
+8. Block merging
+9. BV estimation1. Video encoding and decoding
+2. Tools and techniques for using and providing supplemental enhancement information in bitstreams
+3. Bitstreams with supplemental enhancement information (SEI)
+4. Picture source data in SEI
+5. Progressive scan pictures
+6. Interlaced scan pictures
+7. Duplicate pictures
+8. Confidence level of the encoder's relative confidence in the accuracy of picture source data
+9. Decoder's determination based on confidence level indication
+10. Honor the picture source scanning information in SEI1. Systems
+2. Methods
+3. Contextual insights
+4. Event driven insights
+5. Information monitoring
+6. Users
+7. Conversations
+8. Natural language request
+9. Model extraction
+10. Resource querying
+11. Candidate users
+12. Topic identification
+13. Candidate content items
+14. User relevance
+15. Content item relevance

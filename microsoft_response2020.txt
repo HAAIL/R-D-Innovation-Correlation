@@ -1,0 +1,902 @@
+1. Artificial intelligence
+2. User interface
+3. Application software
+4. Data transmission
+5. Interactive systems
+6. User input
+7. Notification systems
+8. Information technology1. Video decoding innovations for multithreading implementations
+2. Graphics processor unit ("GPU") implementations
+3. Layered data structures
+4. Picture extent discovery
+5. Picture command queue
+6. Task scheduling for multithreading
+7. Inverse transforms
+8. Inverse quantization
+9. Fractional interpolation
+10. Intra prediction using waves
+11. Loop filtering using waves
+12. Memory usage
+13. Performance-adaptive loop filtering
+14. Error handling and recovery
+15. Determination of neighbor availability for operations such as context modeling and intra prediction
+16. CABAC decoding
+17. Computation of collocated information for direct mode macroblocks in B slices
+18. Reduction of memory consumption
+19. Implementation of trick play modes
+20. Picture dropping for quality adjustment1. Video coding
+2. Encoder
+3. Decoder
+4. Scanning process
+5. Scanning order
+6. Block
+7. Transformation
+8. Prediction
+9. Size
+10. Research and development1. Motion information
+2. Video frame processing
+3. Reference frame
+4. Group of blocks
+5. Motion-vector information
+6. Reference-frame index information
+7. Current frame processing1. Distributed computing environment
+2. Third-party hosting
+3. Application store
+4. Downloadable digital content
+5. Roaming entitlements
+6. Third-party generated content
+7. Copy-protection mechanisms1. Scalable volumetric reconstruction
+2. Mobile environment capture device
+3. 3D model
+4. Real-world environment
+5. Hierarchical structure
+6. Root level node
+7. Interior level nodes
+8. Leaf nodes
+9. Voxel grid
+10. Parallel processing
+11. Captured data integration
+12. Image rendering
+13. Metadata computation
+14. Space skipping
+15. Pruning1. Adaptive encoding
+2. Adaptive decoding
+3. Video coding efficiency
+4. Color spaces
+5. Quantization adjustment
+6. Scaling adjustment
+7. Encoder
+8. Decoder
+9. Video sequence1. Motion estimation
+2. Motion compensation
+3. Video coding
+4. Video decoding
+5. Resolution switching
+6. Sub-block transform coding
+7. Sub-block transform sizes
+8. DCT (Discrete Cosine Transform)
+9. Inverse DCT (Discrete Cosine Transform)1. Motion estimation
+2. Moving image data
+3. Frames
+4. Motion vector values
+5. First resolution
+6. Second resolution1. Computing device
+2. Display
+3. Computing components
+4. Securing system
+5. Modular segments
+6. Mechanical connectors
+7. Electrical connectors
+8. Electrical components
+9. Functionality
+10. Wrist1. Haptic feedback system
+2. Wearable devices
+3. Fluidic channels
+4. Adjustable viscosity
+5. Circuits
+6. Controllers1. User interface
+2. Presentation slides
+3. Shapes
+4. Shape thread
+5. Slide transition attributes1. Video encoding
+2. Motion vector precision
+3. Rate-distortion performance
+4. Computational efficiency
+5. Video encoder
+6. Fractional-sample MV precision
+7. Integer-sample MV precision
+8. Rate-distortion analysis
+9. Prevalence of MV values
+10. Bias towards integer-sample MV precision
+11. Collecting information about the video1. Video encoding
+2. Video decoding
+3. VLC (Variable Length Code)
+4. DC coefficient
+5. FLC (Fixed Length Code)
+6. Quantization step size
+7. Signaling
+8. Differential encoding
+9. Value refinement1. Video codecs
+2. Digital media codecs
+3. Adaptive multiple quantization
+4. Transform coefficients
+5. Bitstream syntax1. Video codec
+2. Quantization step size
+3. Quality variation
+4. Bit rate variation
+5. Quantization scale
+6. Bit stream syntax
+7. Syntax element
+8. Fractional step increments
+9. Normal quantizer scale step sizes1. Variable length code
+2. Transform type
+3. Subblock pattern
+4. Decoder
+5. VLC tables
+6. Macroblock level
+7. Block level1. Intra block copy prediction mode
+2. Rate-distortion performance
+3. Computational efficiency
+4. Block vector values
+5. Encoding/decoding block vector values
+6. In-loop deblock filtering
+7. Constrained intra prediction1. Media player
+2. Network
+3. Browser
+4. Device
+5. Web pages
+6. Integration
+7. Navigation
+8. Media files
+9. Media types
+10. Contextual suggestions1. Optical waveguide
+2. Diffraction gratings
+3. Display light
+4. Expansion of display light
+5. First axis
+6. Second axis
+7. Planar face1. Interactive head-mounted eyepiece
+2. Integrated processor
+3. Content display
+4. Integrated image source
+5. Optical assembly
+6. User view
+7. Surrounding environment
+8. Absorptive polarizers
+9. Anti-reflective coatings
+10. Stray light reduction.1. Touch-sensitive display device
+2. Touch sensor
+3. Display electrodes
+4. Control logic
+5. Stylus electrodes
+6. Active stylus
+7. Spatial capacitance measurement
+8. Tip position
+9. Tilt parameter
+10. Twist parameter1. Server systems
+2. Processor
+3. Extensible taxonomy
+4. Impression tags
+5. Categorization
+6. Content sources
+7. Visitor impressions
+8. Location profiles
+9. Aggregated data
+10. Time intervals1. Communication value
+2. Recommendation surfacing threshold
+3. Shared connections
+4. Application user
+5. Importance ranking
+6. Graphical user interface1. Spreadsheet application
+2. Rich data types
+3. Contextual data
+4. Data relationships
+5. Units of measurement
+6. Inches
+7. Miles
+8. Meters
+9. Kilograms
+10. Seconds
+11. Joules
+12. Hertz
+13. Fahrenheit
+14. City
+15. Stock
+16. NCAA football team
+17. Car
+18. Restaurant
+19. School1. Computing devices
+2. Methods
+3. Speaker location
+4. Speaker identification
+5. Neural network
+6. Audio signal
+7. Utterances
+8. Magnitude information features
+9. Phase information features
+10. Change in person speaking
+11. Output
+12. Speaker recognition function
+13. Speaker location function.1. Cluster computing
+2. Client-server model
+3. Scaled cluster environment
+4. Parallel processing
+5. Persistent storage
+6. File handles
+7. State information
+8. Resource access
+9. Server migration1. Computing devices
+2. Content sharing session
+3. User selection input
+4. Content sharing window
+5. User-selectable contact selectors
+6. User contact input
+7. Recipient device
+8. Interaction region
+9. Recipient input1. Navigation devices
+2. Input devices
+3. Route navigation
+4. User route preferences
+5. Preferred route characteristics
+6. Request for a route
+7. Starting location
+8. Ending location
+9. Stored map information
+10. Route segments
+11. Route segment data
+12. Personalized route
+13. Displaying personalized route1. Machine learning
+2. Computer databases
+3. Personal assistant
+4. Skills matching
+5. Context recognition
+6. Assistive actions
+7. Help actions
+8. Match confidence threshold1. Event notification
+2. Subscribers
+3. Publishers
+4. Categorization
+5. Brokers
+6. Authentication credentials
+7. Validation
+8. Queues
+9. Order of receipt
+10. Event filtering
+11. Subscriptions
+12. Targeted notifications1. Digital media encoder/decoder
+2. Quantization technique
+3. Encoded digital media data
+4. Spatial dimensions
+5. Frequency sub bands
+6. Color channels
+7. Codec
+8. Signaling scheme
+9. Flexible quantization combinations
+10. Primary usage scenarios
+11. Quantizer
+12. Indexing1. Video coding techniques
+2. Pixel values
+3. Rate-distortion constraints
+4. Transform coding1. User interface authoring platform
+2. Task definition process
+3. Language understanding models
+4. Canonicalization and resolution modules
+5. Operating system
+6. Third party application authors
+7. Microsoft1. Behavior detection system
+2. Collection of behavior definitions
+3. Functional behavior
+4. Basic operations
+5. Identifier
+6. Parameters
+7. Basic operation combination definition
+8. Sequence
+9. Event log
+10. Responsive action
+11. Scalable collection
+12. Adding behavior definitions
+13. Deleting behavior definitions
+14. Changing basic operations
+15. Modifying basic operation parameters1. Research and development
+2. Microsoft
+3. Processor
+4. Memory
+5. Executable instructions
+6. GUI
+7. Communication application
+8. Communication session
+9. Activity detection
+10. Control element
+11. User input
+12. User participation1. Chroma quantization parameter
+2. Deblock filtering
+3. Picture-level chroma QP offset
+4. Slice-level chroma QP offset
+5. Encoder
+6. Bitstream
+7. Decoding
+8. Control parameter1. Innovations in base color index map ("BCIM") mode
+2. Encoding and decoding in BCIM mode
+3. Simplified implementation of BCIM mode
+4. Reduction of modifications to support BCIM mode
+5. Improved coding efficiency of BCIM mode
+6. Reuse of syntax structure for transform coefficients in BCIM mode
+7. Signaling data for elements of an index map in BCIM mode
+8. Mapping of index values in BCIM mode
+9. Prediction of elements of an index map in BCIM mode
+10. Handling of exception values in BCIM mode1. Touch typing
+2. Client device
+3. Touch-based input receiving application
+4. Sensors
+5. User's hand
+6. Touch-based tool
+7. Input interaction information
+8. Hand aspects (right or left)
+9. Finger(s)
+10. Candidate keys
+11. Keyboard
+12. Keyboard portion
+13. Subsequent detection.1. Weight determination
+2. Voice command detection
+3. Device association
+4. Target device determination
+5. Voice command control methods
+6. Device collaboration
+7. Weight exchange methods
+8. Plurality of devices
+9. Voice command targeting
+10. Device selection methods1. Encoding and decoding of escape-coded pixels
+2. Robust encoding and decoding techniques
+3. Palette mode
+4. Binarization process
+5. Quantization parameter (QP)
+6. Sample depth
+7. Fixed rules for encoding/decoding
+8. Unit-level QP values
+9. Data loss1. Adaptive encoding
+2. Adaptive decoding
+3. Coding efficiency
+4. Color spaces
+5. Color sampling rates
+6. Bit depths1. Adaptive encoding
+2. Coding efficiency
+3. Color spaces
+4. Color sampling rates
+5. Bit depths1. Recommender systems
+2. Content recommendation
+3. Electronic communication
+4. Web content
+5. Link sharing
+6. Content propagation threshold
+7. Common entity1. Three-dimensional video content capture
+2. Controller for capturing 3D video content
+3. Centralized control over capture process
+4. Processing of 3D video content
+5. Establishing connections with components
+6. State update messages from components
+7. Broadcasting system state messages
+8. Broadcasting start messages for components.1. Encoding techniques
+2. Screen data
+3. Intra block copy (IntraBC)
+4. Motion compensation
+5. Video coding standards
+6. HEVC (H.265)
+7. Compliant syntax
+8. High-resolution frame
+9. Independent frames1. Ink
+2. Fabric layer
+3. Water-based ink
+4. Adhesive layer
+5. Migration barrier
+6. Ink bleed1. Configuration control transfer system
+2. CCT server
+3. Configuration information
+4. Device configuration
+5. Current configuration source
+6. Target configuration source
+7. Requested configuration information
+8. Second configuration source
+9. Device control transfer
+10. Device unenrollment
+11. Device enrollment1. Research and development
+2. Semantic compression
+3. Semantic match
+4. Quality estimation
+5. Sentence representation
+6. Match value1. Blockchain technology
+2. Digital ledger
+3. Verifiable Outsourced Ledger
+4. Networked environment
+5. Multiple parties
+6. Immutable view
+7. Transactions
+8. Authorized parties
+9. Continuous view
+10. States shared between parties
+11. Replication
+12. Local verification
+13. Integrity of the ledger.1. User acceptance
+2. Social cards
+3. Personal digital assistant
+4. Mapping component
+5. Card sharing
+6. Whitelist
+7. Local groups
+8. Personalized content
+9. Multiple users
+10. Proactive canvas
+11. User engagement history
+12. Ranking of cards
+13. Conflation
+14. Push notifications
+15. Filtering.1. Adaptive color space transformation
+2. Coding efficiency
+3. Color space encoding
+4. Color space decoding
+5. Control information signaling
+6. Innovations in encoding
+7. Innovations in decoding
+8. Switching color spaces1. Graph database
+2. Querying
+3. Access control
+4. Security context
+5. Relational graph
+6. Membership query
+7. AMQ filter
+8. Ordering queries
+9. Efficiency in querying
+10. Preserving access controls
+11. Frequency of access grants/denials
+12. Node access1. Graphics processing unit (GPU) partitioning
+2. Virtualization
+3. GPU partitioning manager
+4. Host device
+5. Virtual machine
+6. GPU functionality
+7. GPU capabilities
+8. GPU model
+9. Interactions between virtual machines and GPUs
+10. Allocation of GPUs
+11. Configuration of virtual machines with GPU partitions
+12. Exposing GPU-processed data
+13. GPU partition requestor1. Video coding system
+2. Bidirectionally Predictive (B) pictures
+3. Direct Mode encoding
+4. Motion Vector Prediction
+5. Spatial prediction techniques
+6. Temporal distance
+7. Subblock information
+8. Performance improvement1. User interface design
+2. Software functionality controls
+3. Ribbon-shaped user interface
+4. Software application workspace
+5. Access to functionality
+6. Editing functionality
+7. Display persistence
+8. Top-level functionality control1. Spreadsheet documents
+2. Touch-based gestures
+3. Structural changes
+4. Display changes
+5. Inserting new columns and rows
+6. Revealing hidden columns and rows
+7. Deleting columns and rows
+8. Extending functionalities across columns and rows
+9. Moving objects in a spreadsheet document
+10. Navigating various parts of a spreadsheet document1. Ad delivery service
+2. Mobile clients
+3. User privacy
+4. Location broker service
+5. Location use token
+6. Verification
+7. Mobile client location
+8. Location-targeted ad
+9. Geographic density
+10. Advertiser billing1. Cloud computing platform
+2. Memory management
+3. Update management
+4. Controller
+5. Existing cloud computing service
+6. Downloading updates
+7. Merging differences
+8. Creating a new image
+9. Offline testing
+10. Online validation1. Wearable spatial audio device
+2. Audio speakers
+3. Processors
+4. Storage machine
+5. Map data
+6. Real-world environment
+7. Dynamic audio objects
+8. Device-specific subset of audio tracks
+9. Device-specific spatialized audio mix
+10. Environmental condition1. Data processing
+2. Streaming data processing
+3. Atomic concepts
+4. Data concept decomposition
+5. Data-driven data processing
+6. Plug-in of new data concepts
+7. Batch processing systems
+8. Incremental metric processing
+9. Non-incremental metric processing
+10. Realtime access and monitoring
+11. Operational parameters
+12. Queries1. Magnetic materials
+2. Polymeric materials
+3. Object formation
+4. Layer formation
+5. Extrusion
+6. Substrate
+7. Pattern formation
+8. Magnetizing device1. User input
+2. Client device
+3. Imprecise temporal elements ("ITEs")
+4. Time intervals
+5. User input prediction
+6. ITE model1. Laser control
+2. Laser emitter
+3. Laser beam
+4. Compensation and control component
+5. Predicted laser emitter temperature
+6. Desired optical power
+7. Compensated electrical current
+8. Light to current look up tables
+9. Specific laser emitter temperatures1. Media processing tool
+2. Elementary media bitstream
+3. Media container
+4. Custom data
+5. Nominal range of samples
+6. Codec format
+7. Media content type
+8. Rendering engine
+9. Color conversion operations
+10. Logic changes
+11. Full nominal range media content
+12. Limited nominal range media content
+13. Color fidelity
+14. Backward compatibility
+15. Conformance1. Developer environment
+2. Runtime environments
+3. Multi-modal input
+4. Computing systems
+5. Gesture library
+6. Human body gestures
+7. Gesture recognition machine
+8. User interface
+9. Semantic descriptor
+10. Application program
+11. Image data
+12. Camera
+13. Input modality
+14. Natural language input1. Natural language processing
+2. Neural networks
+3. Sequence-to-sequence models
+4. Attention layer
+5. Search algorithms
+6. Document scoring
+7. Conditional entropy1. Context-aware environments
+2. Inwardly-facing cameras
+3. Sensors
+4. User device
+5. Ambient perception component
+6. User locations
+7. User gestures
+8. Objects1. Blockchain technology
+2. Digital ledger
+3. Networked environment
+4. Heartbeat consensus
+5. State information sharing
+6. Verifiability
+7. Integrity verification
+8. Fault recovery
+9. Host migration1. Content capture
+2. Computing device
+3. User interaction
+4. Content store
+5. Application execution
+6. Display views
+7. Obtained content
+8. Suspend output
+9. Resume output
+10. Computing device user1. Recurrent neural network (RNN)
+2. Training
+3. State component
+4. Transition and differential non-linearity component
+5. Neural network
+6. Input vector
+7. Positive and negative contribution vectors
+8. State contribution vector
+9. Current states
+10. Trainable OUT component
+11. Post-processing1. Motion vector precision
+2. Video encoding
+3. Compression
+4. Rate-distortion performance
+5. Computational efficiency
+6. Video encoder
+7. MV precision
+8. Fractional-sample MV precision
+9. Integer-sample MV precision
+10. Prevalence of MV values
+11. Rate-distortion analysis
+12. Bias
+13. Collected information1. Wearable devices
+2. Pulse pressure wave sensing
+3. Artery
+4. Pressure sensors
+5. Mounting structure
+6. User
+7. Skin
+8. Arterial location sensors
+9. Measurement
+10. Identified location1. Head-mounted device
+2. Light sources
+3. Image data
+4. Environmental tracking exposures
+5. Handheld object tracking exposures
+6. Integrated intensity
+7. Surrounding environment
+8. Pose detection
+9. Handheld object pose
+10. Head-mounted device pose1. Capacitive touch sensor
+2. Touch-sensitive input device
+3. Receive circuitry
+4. Controller
+5. Locating mode
+6. Tracking mode
+7. Fixed DC voltage
+8. Multiplexing
+9. Detected location
+10. Pen
+11. Touch sensor1. Digital assistant performance improvement
+2. Machine learned language prediction model
+3. Log data extraction
+4. Session context extraction
+5. User input processing
+6. Suggestion generation
+7. Intermediate suggestion data generation
+8. Surface form generation
+9. Training machine learned language prediction model1. Context-aware environments
+2. Inwardly-facing cameras
+3. Sensors
+4. User device
+5. Ambient perception component
+6. User locations
+7. User gestures
+8. Objects1. Techniques for coding and deriving coded-block-flags
+2. Video content
+3. Last node
+4. Preceding nodes
+5. Predetermined condition
+6. Transform unit
+7. Coding unit
+8. Maximum transform unit
+9. Logarithm function
+10. Residual tree1. Augmented reality
+2. Logic machine
+3. Storage machine
+4. Instructions
+5. Execution
+6. Real-world surfaces
+7. Three-dimensional representation
+8. Virtual two-dimensional plane
+9. Real-world environment
+10. Virtual three-dimensional object
+11. Placement locations
+12. Valid placement
+13. Invalid placement
+14. Invalidation mask1. Task registration service
+2. Task resumption service
+3. Cross-device task registration and resumption
+4. Application identifier
+5. User
+6. Device
+7. Notification
+8. Microsoft1. Enterprise search systems
+2. Methods
+3. Clustered results panels
+4. Search results
+5. Metadata
+6. Enterprise search site
+7. Non-clustered results panel1. Workflow automation 
+2. User identification 
+3. Content item administration 
+4. Mobile application development 
+5. Gamification 
+6. User competition 
+7. Metrics tracking 
+8. Rewards system1. Adaptive streaming
+2. Panoramic video
+3. Stream configuration
+4. Composite pictures
+5. Low-resolution version
+6. Reconstructed section(s)
+7. High-quality views
+8. View window changes
+9. Encoded data loss or corruption
+10. Lower-quality details
+11. Disruption of playback1. Server system
+2. Storage area
+3. Manager function
+4. Data resources
+5. Relationship establishment
+6. Secondary copy
+7. Personal metadata
+8. Attributes of the relationship1. File access request
+2. Application
+3. File types
+4. File hosts
+5. User interface
+6. Hosted area
+7. File retrieval
+8. File saving1. Meeting evaluation machine
+2. Quality parameters
+3. Meeting quality monitoring devices
+4. Overall quality score
+5. Graphical scheduling interface
+6. Upcoming meeting
+7. Meeting time
+8. Meeting location
+9. Meeting participants
+10. Insight generation machine
+11. Meeting insight
+12. Recommendation
+13. Change meeting time
+14. Change meeting location
+15. Change meeting participants
+16. Improve quality score.1. Intra-picture prediction
+2. Multiple candidate reference lines
+3. Sample values
+4. Effectiveness of intra-picture prediction
+5. Reference line of sample values
+6. Capture noise
+7. Quantization error
+8. Occlusion
+9. Encoding/decoding of reference line indices
+10. Filtering of reference sample values
+11. Residue compensation
+12. Weighted prediction
+13. Mode-dependent padding
+14. Unavailable reference sample values
+15. In-loop-filtered reference sample values
+16. Encoder-side decisions
+17. Post-filtering of predicted sample values1. Intra-picture prediction
+2. Multiple candidate reference lines
+3. Sample values
+4. Current block
+5. Effectiveness of intra-picture prediction
+6. Reference line of sample values
+7. Capture noise
+8. Quantization error
+9. Occlusion
+10. Encoding/decoding of reference line indices
+11. Filtering of reference sample values
+12. Residue compensation
+13. Weighted prediction
+14. Mode-dependent padding
+15. Unavailable reference sample values
+16. In-loop-filtered reference sample values
+17. Encoder-side decisions
+18. Selecting reference lines
+19. Post-filtering
+20. Predicted sample values1. Intra-picture prediction
+2. Multiple candidate reference lines
+3. Sample values
+4. Current block
+5. Effectiveness of intra-picture prediction
+6. Reference line of sample values
+7. Capture noise
+8. Quantization error
+9. Significant different values
+10. Occlusion
+11. Encoding/decoding of reference line indices
+12. Filtering of reference sample values
+13. Residue compensation
+14. Weighted prediction
+15. Mode-dependent padding
+16. Unavailable reference sample values
+17. In-loop-filtered reference sample values
+18. Encoder-side decisions
+19. Selecting reference lines
+20. Post-filtering of predicted sample values1. Near-eye display device
+2. Image sensor
+3. Communications subsystem
+4. Logic subsystem
+5. Storage subsystem
+6. Instructions executable
+7. Peripheral device
+8. Light sources
+9. Image data
+10. Constellation of light sources
+11. Subset of light sources
+12. Constellation information1. Computing devices
+2. Data collection
+3. File system
+4. Historical data
+5. Communication1. Research and development activities
+2. Upgrading a version of a service
+3. Computing nodes
+4. Host device
+5. First host processes
+6. Second host processes
+7. Scaling constraint1. Server node
+2. Processor
+3. Network interface controller
+4. Chassis
+5. Server node slot
+6. Server node grid
+7. Blind-mate connector system
+8. Blind-mate power connector
+9. Blind-mate network connector
+10. Alignment guidance1. User experience
+2. Personalized computing experiences
+3. Workflows
+4. User intent
+5. Productivity
+6. Context information
+7. User interaction patterns
+8. Historical work and home characteristics
+9. Personal and productivity workflows
+10. Screen resources allocation1. Electronic task managers
+2. User experience
+3. Task relevance
+4. Task manipulation
+5. Times
+6. Locations
+7. Semantics
+8. Task management
+9. Applications
+10. System functionality
+11. Computer resources
+12. User utility1. Unified intra block copy ("BC")
+2. Inter prediction modes
+3. Bitstream syntax
+4. Semantics of syntax elements
+5. Coding/decoding processes
+6. Motion compensation process
+7. Motion vector
+8. Reference picture
+9. Syntax unification
+10. Coding/decoding tools
+11. Advanced motion vector prediction
+12. Merge mode
+13. Skip mode
+14. Implementation of intra BC prediction1. Video processing applications
+2. Fading compensation
+3. Techniques and tools
+4. Encoding
+5. Video encoder
+6. Fading parameters
+7. Scaling parameter
+8. Shifting parameter
+9. Reference images
+10. Decoding
+11. Video decoder1. Palette prediction mode
+2. Intra block copy mode
+3. Intra line copy mode
+4. Intra string copy mode
+5. Wavefront parallel processing (WPP)
+6. Palette coding/decoding mode
+7. Initial unit
+8. Previous palette data
+9. Previous unit
+10. Intra copy mode
+11. Encoder
+12. Decoder
+13. Constraints
+14. Encoded data1. Video encoding
+2. Video decoding
+3. Latency reduction
+4. Syntax elements
+5. Inter-frame dependencies
+6. Real-time communication tool
+7. Frame reordering latency
+8. Reconstructed frame1. Research and development activities
+2. Masking phase
+3. Amorphous mask
+4. Substrate
+5. Trenches
+6. Underlying layer
+7. Semiconductor growth phase
+8. Selective area growth
+9. Nanowires
+10. Nanowire network

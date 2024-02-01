@@ -1,0 +1,822 @@
+1. USB device
+2. Client
+3. Server
+4. Remote system
+5. Redirecting control
+6. Simulated USB device
+7. Proxy
+8. Pass through
+9. Requesting applications
+10. Communication
+11. Local device
+12. Forwarding requests
+13. Connected device1. Multistage friction hinge
+2. Support component
+3. Apparatus
+4. Activity stages
+5. Movement
+6. Hinge
+7. Activity mechanisms
+8. Sets of components
+9. Friction engines
+10. Resistance
+11. Rotational movement
+12. Pivoting movement1. Handwriting recognition
+2. Touchscreen devices
+3. Text recognition
+4. User interface window
+5. Real-time rendering
+6. Drawing mode
+7. User interface1. Content consumption
+2. Computing devices
+3. Digital content item
+4. User consumption
+5. Supplemental consumption functions1. Video coding
+2. Video data
+3. Video frames
+4. Reference frame
+5. Motion information
+6. Predictable frame
+7. Mode identifying data1. Video encoding
+2. Motion vector precision
+3. Rate-distortion performance
+4. Computational efficiency
+5. Video encoder
+6. Fractional-sample MV precision
+7. Integer-sample MV precision
+8. Rate-distortion analysis
+9. Prevalence of MV values
+10. Collected information1. Research and development
+2. Video processing
+3. Motion information
+4. Video frames
+5. Motion-vector information
+6. Reference-frame index information
+7. Compression techniques
+8. Buffering techniques
+9. Current frame processing1. Tethering parameters
+2. Tethering connection
+3. Implementations
+4. Tethered connection
+5. Tethered device
+6. Host device
+7. Provisioning1. Power management contracts
+2. Accessory devices
+3. Host computing device
+4. Power exchange conditions
+5. Operating constraints
+6. Power exchange direction
+7. Current limits
+8. Renegotiate
+9. Real-time
+10. Identifying data
+11. Types of accessory devices1. Innovations in location-based services
+2. Presentation of location-related actions
+3. Location cards
+4. Mapping technology
+5. Action indicators
+6. Location information
+7. Operating system support for location cards
+8. Exposing location information to users1. Computing device
+2. Display
+3. Logic device
+4. Storage device
+5. Instructions
+6. Executable
+7. Known individual
+8. Affinity score
+9. User
+10. Context
+11. Subset
+12. Photos
+13. Album
+14. Highlight photoset
+15. Cover photo1. Cloud service
+2. Content sources
+3. Protocols
+4. Electronic messages
+5. Calendar information
+6. Contacts
+7. Social network content
+8. Feed data
+9. Search results
+10. User configuration settings
+11. Processing on aggregated content
+12. Client device
+13. Views
+14. Synchronization of content
+15. Searches across content sources.1. Partitioning
+2. Data storage
+3. Database partitions
+4. Repartitioning
+5. Balancing function
+6. Skew factor
+7. Data allocation
+8. Existing partitions
+9. New partitions
+10. Data imbalance1. Research and development
+2. Techniques for coordinating actions between devices
+3. Action types
+4. End user devices
+5. Platform agnostic code module
+6. Exchange of communications
+7. Intermediate coordinator
+8. Detection of action occurrences
+9. Reporting actions
+10. Notification of actions1. Human subject
+2. Anthropometric feature parameters
+3. HRTFs
+4. Training subjects
+5. Statistical relationship1. Idle Time Service
+2. Processing
+3. Device
+4. Execution Duration
+5. Applications
+6. Processor
+7. Power Consumption
+8. Background Application1. Computer gaming
+2. Video games
+3. In-game recording
+4. Temporary storage buffer
+5. Subsequent viewing
+6. Interface design
+7. Library management1. Mobile media device user interface
+2. Audio content monitoring
+3. Broadcast channels
+4. Display device
+5. User interface1. Video messaging
+2. Asynchronous communication
+3. Synchronous video communications
+4. SMS-type message exchange1. Contracts in dynamic languages
+2. Type safety in dynamic languages
+3. Mix-ins in dynamic languages
+4. Declaration of contracts in mix-ins
+5. Runtime association of contracts with target objects
+6. Conditions for applying mix-ins to target objects1. Techniques
+2. Controlling reactivation
+3. Service functions
+4. Implementations
+5. Controlling and storing service objects
+6. Service functions1. Graphics Processing Unit (GPU)
+2. Field Programmable Gate Array (FPGA)
+3. Bus interface
+4. Data transfer
+5. Central processing unit (CPU)1. Device pairing
+2. Computing device
+3. Companion device
+4. Stylus
+5. Display
+6. Wireless protocol
+7. Proximity information
+8. Wireless protocol identification information
+9. Pairing process1. Game controller
+2. Finger pad
+3. Finger interface
+4. Planar facets
+5. Manual manipulation
+6. Mounting interface1. Operating systems
+2. Touch-display technology
+3. Capacitive touch-sensing
+4. Digitizer technology
+5. User interface design
+6. Human-computer interaction1. Resource set
+2. Public names
+3. Friendly URLs
+4. Type of resource
+5. Indexing
+6. Search engines
+7. Name hierarchy
+8. File system
+9. Reference
+10. Navigation logic
+11. Location
+12. Scalability
+13. Efficiency
+14. Retrieving a resource1. Adaptive video noise reduction
+2. Streaming video
+3. Bit rate
+4. Frame rate
+5. Resolution
+6. Content type
+7. Quality of streaming video
+8. Manifest
+9. Input values
+10. Applications
+11. Mosquito noise reduction
+12. Block noise reduction
+13. Temporal noise reduction
+14. Random noise reduction
+15. Banding noise reduction1. User input device
+2. Adjustable tensioning mechanism
+3. Tilt tension modification
+4. Tiltable post
+5. Thumbstick
+6. Cap with stem
+7. Cavity
+8. Base with movable portion
+9. Protuberance
+10. Adjustment body
+11. Recessed slot
+12. Contacting surface
+13. Tilt tension adjustment.1. Mobile devices
+2. Device settings
+3. Policy settings
+4. Configuration settings
+5. Maintained data
+6. New mobile device configuration
+7. Accessing maintained data1. Equipment control
+2. Conversational interface
+3. Media-related context
+4. Media BOT
+5. Command recognition
+6. Input query
+7. Search system
+8. Domain-specific search
+9. Top-ranked media item
+10. Curated media-specific corpus
+11. Scoped search system
+12. Linguistic processing mechanisms
+13. Group profiles
+14. Automatic media item selection1. Object detection
+2. Image recognition
+3. Camera perspective
+4. Pixel offset
+5. Object locus
+6. Expected object-detection distance
+7. Target object
+8. Image matching1. Electricity management
+2. Modulated waveforms
+3. Alternating current frequencies
+4. Electrical devices
+5. Electrical power
+6. Electrical line1. Resource string
+2. Valid resource string
+3. Resource
+4. Client device
+5. String profile
+6. Communication
+7. Instance1. Touch input detection
+2. Touch sensor
+3. Reference sequence
+4. Candidate reference sequences
+5. Rule set
+6. Touch detection performance score
+7. Receive circuit
+8. Correlation operation
+9. Selected candidate reference sequence
+10. Signals
+11. Touch detection conditions1. Cloud computing
+2. Credential management
+3. Remote access
+4. Network communication
+5. Device settings
+6. Device drivers
+7. User experience1. Mobile messaging application
+2. Voicemail messages
+3. Transcription
+4. Storage
+5. Recipient
+6. List of voicemail messages
+7. Retrieval
+8. Reading
+9. Listening
+10. Annotation1. Image projection devices
+2. Camera
+3. Video capture
+4. Real-time image capture
+5. Video feedback
+6. Projection techniques
+7. Flicker-free projection
+8. Synchronization
+9. Temporal compression
+10. Temporal shifting
+11. Capture time slot
+12. Tradeoff
+13. Decreased brightness
+14. LED-LCD based projection devices
+15. DLP-based projection devices
+16. Micromirror arrays1. Mobile device applications
+2. Context data
+3. Current environment
+4. Application metadata
+5. Environment conditions
+6. Discovering mobile device applications
+7. Downloading mobile device applications
+8. Installing mobile device applications
+9. Geographical location
+10. Notification data1. Panorama stitching
+2. Image capture
+3. Ordering preferences
+4. Image stack
+5. Manually captured images
+6. Automatically captured images
+7. Stitching order
+8. Foreground of panorama
+9. Camera position tracking
+10. Focal point indicator
+11. Scene capture1. Head-mounted display
+2. Adjustable crown band
+3. Crown band circumference adjusting mechanism
+4. HMD attachment structures
+5. Display
+6. Eye relief distance adjustment mechanism1. Multi-factor user authentication
+2. Asymmetric key
+3. Host device
+4. User agent
+5. Gesture system
+6. Authentication system
+7. User credential
+8. User gesture
+9. User interaction
+10. User authentication
+11. Personal identification number (PIN)
+12. Biometric information
+13. Geographic location
+14. Device implementation1. Computer security
+2. Computer accessory devices
+3. Mutual authentication
+4. Host computing devices
+5. Remote pairing service
+6. Computer networks
+7. Pairing certificates
+8. Encryption
+9. Private keys1. Device platform
+2. Simultask mode
+3. User interface
+4. Chrome elements
+5. Bladed view
+6. Compact representation
+7. Expanded view
+8. Principal chrome
+9. Displayable application
+10. Application-specific elements
+11. Customizations
+12. Metadata
+13. Default information
+14. Notification system
+15. Dynamically updatable content1. Storage system stack
+2. Components of a storage system stack
+3. Efficiency improvement in storage systems
+4. NAND flash SSD memory
+5. Shingled magnetic recording media
+6. Responsibilities of components in a storage system stack
+7. Level of abstraction in storage stack1. Intelligent assistant device
+2. Non-verbal cues
+3. Image data
+4. Cameras
+5. Actuation
+6. Presence of human
+7. Context information
+8. Sensors
+9. Human context communication1. Trust status
+2. Communication session
+3. Networks
+4. Routing
+5. Devices
+6. Authentication status1. Plug-in (computing)
+2. ActiveX
+3. Web browser
+4. Credential service
+5. Credential data
+6. Card file
+7. Logging
+8. Website
+9. Token (data security)
+10. User interface1. Video encoding
+2. Chroma sampling format
+3. YUV 4:4:4
+4. YUV 4:2:0
+5. Decoding
+6. Geometric correspondence
+7. Y component
+8. U component
+9. V component1. Signaling state of a decoded picture buffer (DPB)
+2. Reference picture lists (RPLs)
+3. Managing and updating DPB and RPLs
+4. Explicitly signaling state information about DPB and RPLs
+5. Determining available reference pictures based on signaled state information
+6. Encoder determining state information for available reference pictures
+7. Syntax elements representing state information
+8. Setting identifying information for a long-term reference picture (LTRP)
+9. Value of picture order count least significant bits for LTRB
+10. Outputting syntax elements as part of a bitstream1. Transducer control
+2. Position-based control
+3. Peripheral devices
+4. User terminals
+5. Speaker control
+6. Microphone control
+7. Multiple transducers control1. Touch-sensitive surface
+2. Display
+3. Firmware
+4. Software module
+5. Reliability value
+6. Location
+7. Activity context
+8. Confidence level
+9. Changes over time
+10. Rejection1. User interface
+2. Mobile device
+3. Chromeless menu
+4. System tray
+5. Notice
+6. Status information
+7. Operability
+8. Task switcher module
+9. Chromeless overlay
+10. Active application
+11. Execution
+12. Selection
+13. Applications1. Multi-camera object tracking
+2. Privacy preservation
+3. Secure multi-party computation
+4. Distance metric computation
+5. Data from multiple cameras
+6. Object identification accuracy1. Classification system
+2. Content classification
+3. Input image stream
+4. Faces
+5. Landmarks
+6. Events
+7. General classifier
+8. Specialized classifier template
+9. Subset of aspects of content
+10. Class skew
+11. Temporal locality
+12. Image stream1. Electronic calendar application features
+2. Free form calendar input surface
+3. Computer-based method
+4. Personalization of calendar surface
+5. Input types and methods1. User interface
+2. Compose form
+3. Message list
+4. Overlaying
+5. Drafting a message
+6. Viewing content
+7. Message application
+8. UI visibility
+9. Navigating folders
+10. Tree view
+11. Message list view
+12. Draft saving1. Computing devices
+2. Network connection
+3. Metered network
+4. Synchronization techniques
+5. Synchronization engine
+6. Data synchronization
+7. Computing devices synchronization1. Video encoding
+2. Video decoding
+3. Latency reduction techniques
+4. Frame reordering
+5. Real-time communication
+6. Inter-frame dependencies
+7. Syntax elements
+8. Video sequence
+9. Reconstructed frame
+10. Output order.1. Scanning image display systems
+2. Light source
+3. Motion sensor
+4. Scanning mirror system
+5. Controller
+6. Scan rate
+7. Phase offset
+8. Head motion data
+9. Image formation
+10. Head-mounted display system1. Touch-sensitive display device
+2. Capacitance-based touch sensor
+3. Electrodes
+4. Display
+5. Pixels
+6. Image source
+7. Video frame rate
+8. Controller
+9. Capacitance measurements
+10. Touch-sensing frame
+11. Display-write operations
+12. Temporal overlap
+13. Fixed touch-sensing frame rate1. Research and development
+2. Apparatus
+3. Processor
+4. Memory
+5. Machine readable instructions
+6. Tasks
+7. Resources
+8. Decomposition
+9. Rules
+10. Groups of tasks
+11. Resource allocation problem
+12. Subset of resources
+13. Nodes
+14. Solve1. Computing device
+2. Network interface
+3. Storage controller
+4. Sharing tool
+5. Protection service
+6. Digital payloads
+7. Access tags
+8. Content tags
+9. Context tags
+10. Recipient computing device
+11. Work designation
+12. Personal designation1. Intelligent assistant devices
+2. Methods for interacting with a user
+3. Predicting suggested actions
+4. Displaying suggested actions via a device's display
+5. Audio input processing
+6. Determining keyword following a command
+7. Recognizing commands that apply to suggested actions
+8. User selection of suggested actions
+9. Executing suggested actions1. Graphics processing
+2. Computing device
+3. Primitives
+4. Overlap detection
+5. Pixel region
+6. Graphics processor
+7. Blending graphics primitives
+8. Visual effects
+9. Memory management
+10. Display devices1. Context establishment
+2. Phone call management
+3. Content and application relevance
+4. Party identification
+5. Data analysis
+6. Action identification
+7. Intention identification
+8. Text-based transcript
+9. Real-time natural language processing (NLP)
+10. Device control
+11. Automation
+12. Productivity enhancement
+13. To-do list generation
+14. Subject matter discussion1. Conversational recommendations
+2. Facets
+3. Consumer reviews
+4. Social media content
+5. Machine-learned facet model
+6. Sentiment model
+7. Neutral sentiment
+8. Positive sentiment
+9. Negative sentiment
+10. Facet selection
+11. Conversational utterances
+12. Suggestions
+13. Predefined conversational frameworks
+14. Personalization1. Techniques for state change information
+2. Service provided by a server
+3. State change information
+4. State of the service
+5. Communication of state change information
+6. Receiving device
+7. Polling of the server1. State change information
+2. Service
+3. Server
+4. Implementation
+5. Request
+6. Receiving device
+7. Polling1. Wireless network
+2. Access point
+3. Client
+4. Wireless gaming system
+5. Protocol
+6. Timing control
+7. Message exchange
+8. Contention
+9. Latency
+10. Gaming experience
+11. Power consumption
+12. Accessories
+13. Controllers
+14. Battery life1. Wearable technology
+2. Image display system
+3. Light engine
+4. Optical component
+5. Virtual image
+6. Eye projection
+7. Incoupling structures
+8. Exit structures
+9. Central portion
+10. Headpiece1. Update operations
+2. Computing device
+3. Device restart
+4. Shutdown operation
+5. Installation of updates
+6. Grouping updates
+7. Single update and restart operation
+8. Scheduling update and restart operation
+9. User notification
+10. User presence information
+11. Device state information
+12. Initiating operation1. Game data management
+2. Video game execution
+3. User gaming machine
+4. Game service computing machine
+5. Game statistic generation
+6. Subscription to game statistic1. Unified Messaging
+2. Voice mail retrieval
+3. Voice messaging service
+4. User registration
+5. Configuration requirements
+6. Call forwarding
+7. Speed dial
+8. Service monitoring
+9. Access numbers
+10. Voice mail forwarding
+11. User settings1. Computing device
+2. Meeting space
+3. Appliance
+4. Connection establishment
+5. Meeting announcement
+6. Joining a meeting1. Wireless networks
+2. Geographic information
+3. Mobile devices
+4. Connectivity modules
+5. Geographic position information
+6. Actions performed
+7. Wireless network identification
+8. Geographic regions
+9. Wireless scanning
+10. Detection of wireless networks1. Techniques
+2. Geographic information
+3. Wireless networks
+4. Connectivity module
+5. Mobile device
+6. Geographic position information
+7. Query
+8. Actions
+9. Wireless network
+10. Geographic region
+11. Wireless scan
+12. Detection1. Wireless networks
+2. Geographic information
+3. Mobile devices
+4. Connectivity module
+5. Geographic position information
+6. Query
+7. Actions
+8. Wireless network detection
+9. Geographic region
+10. Wireless scan1. Techniques for geographic information for wireless networks
+2. Mobile devices
+3. Connectivity module
+4. Geographic position information
+5. Query
+6. Wireless network
+7. Geographic region
+8. Wireless scan1. Smart rings
+2. Finger band
+3. Pressure sensors
+4. Tendons
+5. Gesture component
+6. User's finger
+7. Individual actions1. Natural language processing
+2. Speech recognition
+3. Linguistic representation
+4. Data structure language
+5. Parsing
+6. Computer processing1. Web-based application
+2. Browser
+3. Resources
+4. Domain
+5. Resource management component
+6. Controlled communication
+7. Access control
+8. Sandbox containment structure
+9. Service instance
+10. Flexible display of resources
+11. Disparate domains1. Software applications
+2. Messaging
+3. Conversation mode
+4. Engagement mode
+5. Display area
+6. User behavior
+7. Level of engagement
+8. User application interaction1. Message prioritization
+2. Priority level
+3. Threshold
+4. Priority queue
+5. Distribution group recipients
+6. Expanded distribution group recipients
+7. Second priority queue
+8. Delivery1. Research and development
+2. Techniques
+3. Graphical object
+4. Images
+5. Video
+6. Facial positions
+7. Face
+8. Precomputed graphical object
+9. Implementation
+10. Modify
+11. Captured images
+12. Location
+13. Generate a video1. Natural language processing
+2. Event detection
+3. Communication sessions
+4. Content processing
+5. Storage techniques1. Keyboard engine
+2. Keyboard input module
+3. Input sensor
+4. Intention disambiguation engine
+5. Shape-writing input
+6. Radial entry input
+7. User interface1. Terminal services
+2. Display mirroring
+3. Input components
+4. Sharing models
+5. Configuration
+6. Administrative access
+7. Capabilities
+8. Security concerns
+9. Availability
+10. Computing environment
+11. User permissions
+12. Resource utilization1. Buildable product
+2. Component
+3. Subassembly
+4. Diagnostic message
+5. Relationship
+6. User interaction
+7. Build instructions
+8. Physical gestures
+9. Input device
+10. Camera
+11. Instruction guide
+12. Build process
+13. Assembly stages
+14. Visual perspectives1. Circuit board
+2. Input device
+3. Touch interaction region
+4. Etching
+5. Switch
+6. Click input event1. Human face recognition
+2. Data streams analysis
+3. Sensor technology
+4. False representation detection
+5. Flat plane analysis
+6. Curving plane analysis1. Communication session
+2. Session identifier
+3. Data packets
+4. Routing1. Communication session
+2. Session identifier
+3. Initiating a communication session
+4. Allocating a session identifier
+5. Activating a session identifier
+6. Routing data packets
+7. Data communication1. Driver execution
+2. Driver
+3. Associated device
+4. Driver companion
+5. Secure environment
+6. Operating system framework
+7. Unload1. File access request
+2. Application
+3. File types
+4. File hosts
+5. User interface
+6. Hosted area
+7. Retrieval
+8. Saving locations1. Communication Session
+2. Interleaving Techniques
+3. Network Handover
+4. Dynamic Adjustment
+5. Encoding
+6. Data Transmission1. Battery management
+2. Computing device
+3. Battery offline module
+4. Power source
+5. System conditions
+6. Charging arrangements
+7. Battery utilization
+8. Battery life1. Hybrid drive
+2. Flash memory device
+3. Hard disk drive
+4. Drive access system
+5. Operating system
+6. Computing device
+7. Input/output (I/O) commands
+8. Data storage
+9. Data retrieval
+10. Data synchronization
+11. Device interference
+12. User experience
+13. Power saving modes1. Microsoft
+2. Research and development activities
+3. Computing device
+4. System level search module
+5. User interface registration information
+6. Application launch
+7. Registration store
+8. Applications
+9. System level search user interface1. Computing devices
+2. Geographic location
+3. Telephone number
+4. Communication
+5. Routing
+6. Communication sessions
+7. Local numbers
+8. Geographical locations1. Cloud application
+2. Cloud-computing platform
+3. Managed proxy device
+4. Access attempt
+5. Velocity
+6. Velocity threshold
+7. Unauthorized access

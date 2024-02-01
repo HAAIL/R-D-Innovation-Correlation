@@ -1,0 +1,446 @@
+1. Information repository
+2. Image browsing
+3. Text mining
+4. Semantic relevance
+5. Snippets of text
+6. Keyterms detection
+7. Concepts related to images
+8. Entities related to images
+9. Hyperlinking
+10. Graphical user interface1. Task template generation
+2. Social task discovery
+3. Task template catalog
+4. Automatic task template generation
+5. User-submitted task templates
+6. Task template review
+7. Task template sharing
+8. Task template curation
+9. Task catalog browsing
+10. Task catalog searching
+11. Task generation based on task templates
+12. User's task list
+13. Customization of task templates
+14. Parametric subtasks in tasks
+15. Conditional subtasks in tasks
+16. Tailoring task templates
+17. Task management application.1. Scanning mirror display system
+2. Timing information
+3. Light samples
+4. Displayed image
+5. Encoding timing information
+6. Bits
+7. Derivative
+8. Communications channel1. Statistical dialog manager
+2. Context clue
+3. Spoken query
+4. User query categorization
+5. Text conversion
+6. Response generation1. Hand tracking data
+2. Microgesture input
+3. Software functions
+4. Gesture recognition machine
+5. Thumbtip location
+6. Threshold distance
+7. Microgesture target selection
+8. Duration of thumbtip at a position
+9. Confirmation action
+10. Execution of microgesture target1. Microsoft
+2. Research and development
+3. User input
+4. Applications
+5. Interactive application
+6. Disruptions
+7. Techniques
+8. User interaction
+9. Automated user inputs
+10. Output1. Point cloud encoding and decoding
+2. Computational complexity reduction
+3. Computational resource usage reduction
+4. 3D video encoding
+5. Inter-frame coding
+6. Motion compensation
+7. Predictive coding
+8. Intra-frame encoding
+9. Encoding mode selection
+10. Rate-distortion performance evaluation
+11. Voxel-distortion-correction filters
+12. Voxel compression
+13. 3D image data compression
+14. Decoding techniques1. Computing system
+2. Audio presentation
+3. Electronic communications
+4. Recipient
+5. Conversation thread
+6. Unreviewed electronic communication
+7. Reply-linked electronic communications
+8. Chronological-sequential order
+9. Oldest unreviewed electronic communication
+10. Most-recent unreviewed electronic communication
+11. Next-most-recent conversation thread
+12. Next-most-recent set of unreviewed electronic communications
+13. Computing device1. Inter-application communication
+2. Task completion
+3. Registering a target application
+4. Contextually aware task execution
+5. Mapping application
+6. Restaurant entity
+7. Actions on entities
+8. Reserve table action
+9. Target applications
+10. Contextual information
+11. Launching applications
+12. Contextually relevant state
+13. Dinning application
+14. Table reservation form1. Head-mounted display device
+2. Position sensors
+3. Processor
+4. Rendered image
+5. Device pose
+6. Spatial correction
+7. Color information
+8. Pixels
+9. Reprojected image
+10. Display
+11. Wobulation
+12. Pixel subframes1. Communication session
+2. User account
+3. Domain platform
+4. User privilege
+5. Memory
+6. Processor
+7. Executable instructions
+8. Detection
+9. Device
+10. Microsoft1. Quantum computing
+2. Debugging techniques
+3. Program development
+4. Quantum programs
+5. Classical programs
+6. Error identification
+7. State space1. Web browser
+2. Address bar
+3. URL
+4. Domain
+5. Navigation event
+6. Proxy
+7. Suffix domain
+8. Context
+9. Processor
+10. Microsoft1. Hand gesture recognition
+2. Emojis
+3. Display devices1. Computer-implemented technique
+2. Consumption of applications
+3. Supervisee (child)
+4. Interaction with an application
+5. Context input signals
+6. Current context
+7. Output result
+8. Set of rules
+9. Rule logic
+10. Control of interaction
+11. Automatically generated rule logic
+12. Discrete rules
+13. Machine-trained model
+14. Time allocation
+15. Plural applications
+16. Plural contexts
+17. Classification of new application1. Compiler technology
+2. Source code analysis
+3. Conditional statements
+4. Code optimization
+5. Computational cost estimation
+6. Constraint satisfaction
+7. Code reordering1. Server system
+2. Compute nodes
+3. Processor
+4. Host memory device
+5. Solid-state drive (SSD) devices
+6. Local non-volatile memory express virtualization (LNV) device
+7. Non-transparent (NT) switch
+8. Peripheral component interconnect express (PCIe) bus
+9. Hardware resources
+10. Data buffers1. Companion experience 
+2. Primary screen 
+3. Automatic search 
+4. Related content 
+5. Auxiliary screen 
+6. Layer 
+7. Different screens 
+8. Physical screens 
+9. Computing devices 
+10. Frame 
+11. Sub-window1. Search results ranking
+2. Search request
+3. Search results index
+4. Documents
+5. Terms
+6. User category
+7. Relevance score
+8. Subset of documents
+9. User presentation1. Computer-implemented technique
+2. Constraints
+3. Interaction with applications
+4. User interface presentation
+5. Supervisor
+6. Applications
+7. Application execution platforms
+8. Platform-agnostic constraint information
+9. Supervisee
+10. Versions of an application
+11. Permitted activity.1. User interface customization
+2. Application development
+3. Game control layouts
+4. Control groups
+5. Sockets
+6. Layout templates
+7. Customization of controls
+8. Position, rotation, and scale changes
+9. Customized preferences
+10. Sharing UI customization
+11. Different UIs
+12. Tedious control changes
+13. Time-consuming control changes1. Data storage
+2. Enterprise search system
+3. Heterogeneous storage devices
+4. Data structures
+5. Search query operator
+6. Storage device1. Encoding
+2. Decoding
+3. Block vector values
+4. Intra block copy prediction
+5. BV predictor
+6. Default BV predictor
+7. Multiple BV predictor candidates
+8. Skip mode
+9. Intra-BC-predicted block
+10. Predicted BV value1. Semiconductor-superconductor heterojunction
+2. Qubit register
+3. Topological quantum computer
+4. Radio-frequency junction admittance
+5. Sub-RF conductance
+6. Non-local conductance
+7. Parameter space
+8. Unbroken topological phase
+9. Topological gap1. Computing device
+2. Map data
+3. Neighborhood
+4. Spatial understanding
+5. Display devices
+6. Target virtual location
+7. Shared hologram
+8. Physical environment
+9. Moment in time
+10. Processor
+11. Memory
+12. Anchor transfer program1. Disaggregated computing
+2. Two-phase liquid immersion tanks
+3. Component types
+4. Virtual machines
+5. Allocation of components
+6. Support for virtual machines1. Laser emitter
+2. Substrate
+3. Dielectric mask layer
+4. Trenches
+5. Nanowire
+6. Semiconductor layer
+7. Quantum well layer1. Proxy server
+2. Client
+3. Webserver
+4. Response
+5. Request
+6. Metadata1. Storage systems
+2. VDL (valid data length) type controls
+3. Cluster basis
+4. Sub-cluster basis
+5. File basis
+6. Metadata
+7. Edge data volume nodes
+8. Distributed network
+9. Master node
+10. Data volume nodes
+11. Sequence controls
+12. Access control
+13. Data storage clusters1. Productivity entity container data structure
+2. First productivity entity
+3. Second productivity entity
+4. Linking productivity entities
+5. Different productivity entity types
+6. Assigned task
+7. Scheduled calendar event
+8. Computer-based productivity systems
+9. Unified-view interface1. Intelligent agent
+2. Ghost presence
+3. Data communications
+4. Meeting
+5. Triggers or events
+6. Questions
+7. Knowledge
+8. Auto-summoning
+9. Real-time communication
+10. Communication channels
+11. Instant message chat
+12. SMS
+13. Phone call
+14. Video call
+15. Pager1. Computing devices
+2. Tool for visually exploring datasets
+3. Multi-dimensional data structure
+4. User selection of data point
+5. Visualization of calculations
+6. Semantic graphical feature
+7. Types of calculations1. Natural language processing
+2. Machine learning
+3. Semantic vectors
+4. Structured data records
+5. Data record conversion
+6. Offline data processing
+7. Machine-trained models
+8. Updating data records
+9. Attribute values
+10. Target data records1. Computer input devices
+2. Human-computer interaction
+3. User interfaces
+4. Computing devices
+5. Computer peripherals
+6. Computer hardware
+7. Computing technology
+8. Computer accessories
+9. Computer mice1. Adaptive technology
+2. Visual impairment
+3. Computing device
+4. Content display
+5. Image analysis
+6. Video analysis
+7. Magnification user interface
+8. User behavior analysis
+9. Head movements
+10. Eye movements1. Innovations in phase quantization
+2. Speech encoding
+3. Phase reconstruction
+4. Speech decoding
+5. Speech encoder
+6. Higher-frequency phase values
+7. Basis functions
+8. Speech decoder
+9. Lower-frequency phase values
+10. Synthesize higher-frequency phase values
+11. Speech codec
+12. Low bitrate scenarios
+13. Encoded data
+14. Network bandwidth
+15. Transmission quality problems1. Natural language processing
+2. Neural network
+3. Contextualized semantic representations
+4. Attention mechanism
+5. Propagation of attention
+6. Document processing
+7. Word embeddings
+8. Natural language processing operations1. Light sources
+2. Polarization state generator
+3. Image sensor
+4. Sample region
+5. Polarization state analyzer
+6. Bandpass filter1. Digital ink document
+2. Data structure
+3. Hierarchy of nodes
+4. Ink document elements
+5. User interaction
+6. Selection
+7. Highlighting
+8. Text analysis engine
+9. Structured interaction1. Environment type validation
+2. Tamper-resistant validation
+3. Computing environment
+4. Policy management
+5. Verifications
+6. Application licenses
+7. Host computing environment
+8. Container virtual computing environment
+9. Encryption infrastructure
+10. Code integrity mechanisms
+11. Hypervisor
+12. System drivers
+13. Operating system components
+14. Resource management stacks
+15. Firmware1. Document formatting
+2. Visual suggestions
+3. Editing units
+4. Editing rules
+5. Editing suggestions
+6. Candidate edits
+7. Suggestion scope
+8. User selection1. Conversational data analysis
+2. Heuristic information
+3. Data analysis request
+4. Supplementary information
+5. Clarification of meaning
+6. Further analysis request
+7. Data analysis result
+8. Accuracy of data analysis
+9. Effectiveness of data analysis
+10. User experience1. Computing system
+2. Processor
+3. Convolutional neural network
+4. Backbone network
+5. Head neural networks
+6. Input image
+7. Feature maps
+8. Keypoint heatmaps
+9. Part affinity field heatmaps
+10. Virtual skeletons1. Service events
+2. Networks
+3. Query context
+4. Multiple-layer relational graph
+5. Configuration layer
+6. Observation layer
+7. Learned layer
+8. Relationships between services or service events
+9. User interface1. Machine learning
+2. ML operating mode
+3. Camera housing orientation
+4. Operating modes
+5. ML inference mode
+6. ML training mode
+7. Image capturing unit
+8. ML controller
+9. ML model
+10. Detecting objects
+11. Image processing
+12. Training ML model
+13. Remotely located computing device1. Computing device
+2. Processor
+3. Source code
+4. Executable code
+5. Reload indicators
+6. Source code update
+7. Executable code update
+8. Reload ordering
+9. Reload operations
+10. Microsoft1. Natural language processing
+2. Application programming interface (API)
+3. Sequence to sequence neural model
+4. User interface
+5. Training data
+6. Deterministic mapping1. Summarization
+2. Indexing
+3. Post-processing
+4. Structured document
+5. Recordings
+6. Recorded presentation
+7. Machine-trained models
+8. Transcript
+9. Context
+10. Components
+11. Video recordings
+12. Recording of operations
+13. Segments
+14. Index1. Collaborative browsing
+2. Real-time browsing activity
+3. Saved browsing activity
+4. Collaborative browsing session
+5. Tab group
+6. Collaborator
+7. Collective tab group
+8. Client changes
+9. Service
+10. Synchronize shared state amongst clients
