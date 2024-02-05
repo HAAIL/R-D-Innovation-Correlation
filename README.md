@@ -8,6 +8,9 @@ To explore the correlation between the frequency of mentions of the research and
 ### HTML Folder
 - Contains the 10-K reports for major companies for the year 2022.
 
+### microsoft_10k Folder
+- This code reads HTML documents for different years related to Microsoft, extracts and processes text from these documents, and then uses a language model to extract DBPedia topics related to Microsoft's research and development activities for each year. It organizes and prints these topics with their corresponding years.
+
 ### Jupyter Notebook Files
 
 #### `createCompanyTable`
