@@ -87,7 +87,8 @@ def get_topics(text):
         model="gpt-4-turbo-preview",
         messages=[
             {"role": "user", "content": prompt}
-        ]
+        ],
+        temperature=0
     )
 
     # print(completion.choices[0].message)
