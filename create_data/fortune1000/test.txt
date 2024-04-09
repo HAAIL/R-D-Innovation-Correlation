@@ -1,0 +1,1000 @@
+Walmart Apollo, LLC : 409
+ExxonMobil : 351
+Apple Inc. : 2597
+Berkshire Hathaway : 0
+Amazon : 2417
+UnitedHealth Group : 2
+McKesson : 12
+CVS Health : 0
+AT&T : 1303
+AmerisourceBergen : 1
+Chevron : 188
+Ford Motor : 52
+General Motors : 21
+Costco Wholesale : 0
+Alphabet : 2
+Cardinal Health : 6
+Walgreens Boots Alliance : 0
+JPMorgan Chase : 101
+Verizon Communications : 6
+Kroger : 0
+General Electric : 1888
+Fannie Mae : 0
+Phillips 66 : 45
+Valero Energy : 0
+Bank of America : 403
+Microsoft : 3056
+Home Depot : 9
+Boeing : 1361
+Wells Fargo : 149
+Citigroup : 6
+Marathon Petroleum : 7
+Comcast : 194
+Anthem : 1
+Dell Technologies : 0
+DuPont de Nemours : 0
+State Farm Insurance : 0
+Johnson & Johnson : 139
+IBM : 1
+Target : 72
+Freddie Mac : 7
+United Parcel Service : 61
+Lowe's : 6
+Intel : 7540
+MetLife : 0
+Procter & Gamble : 466
+United Technologies : 1232
+FedEx : 30
+PepsiCo : 28
+Archer Daniels Midland : 12
+Prudential Financial : 0
+Centene : 0
+Albertsons : 0
+Walt Disney : 0
+Sysco : 0
+HP : 209
+Humana : 6
+Facebook : 1323
+Caterpillar : 473
+Energy Transfer : 0
+Lockheed Martin : 184
+Pfizer : 53
+Goldman Sachs Group : 0
+Morgan Stanley : 3
+Cisco Systems : 0
+Cigna : 2
+AIG : 17
+HCA Healthcare : 0
+American Airlines Group : 0
+Delta Air Lines : 2
+Charter Communications : 21
+New York Life Insurance : 2
+American Express : 61
+Nationwide : 19
+Best Buy : 0
+Liberty Mutual Insurance Group : 0
+Merck : 297
+Honeywell International : 700
+United Continental Holdings : 0
+TIAA : 0
+Tyson Foods : 5
+Oracle : 848
+Allstate : 113
+World Fuel Services : 0
+Massachusetts Mutual Life Insurance : 46
+TJX : 0
+ConocoPhillips : 63
+Deere : 333
+Tech Data : 0
+Enterprise Products Partners : 0
+Nike : 478
+Publix Super Markets : 0
+General Dynamics : 7
+Exelon : 0
+Plains GP Holdings : 0
+3M : 598
+AbbVie : 52
+CHS : 279
+Capital One Financial : 4
+Progressive : 23
+Coca-Cola : 29
+USAA : 204
+Hewlett Packard Enterprise : 770
+Abbott Laboratories : 50
+Twenty-First Century Fox : 0
+Micron Technology : 1276
+Travelers : 16
+Rite Aid : 1
+Northrop Grumman : 148
+Arrow Electronics : 0
+Philip Morris International : 0
+Northwestern Mutual : 0
+INTL FCStone : 0
+PBF Energy : 0
+Raytheon : 379
+Kraft Heinz : 0
+Mondelez International : 0
+U.S. Bancorp : 2
+Macy's : 0
+Dollar General : 0
+Nucor : 15
+Starbucks : 7
+DXC Technology : 0
+Eli Lilly : 38
+Thermo Fisher Scientific : 45
+US Foods Holding : 0
+Duke Energy : 1
+Halliburton : 1001
+Cummins : 182
+Amgen : 60
+Paccar : 17
+Southern : 130
+CenturyLink : 76
+International Paper : 25
+Union Pacific : 1
+Dollar Tree : 0
+Penske Automotive Group : 0
+Qualcomm : 2325
+Bristol-Myers Squibb : 120
+Gilead Sciences : 53
+Jabil : 28
+ManpowerGroup : 0
+Southwest Airlines : 1
+Aflac : 0
+Tesla : 71
+AutoNation : 0
+CBRE Group : 0
+Lear : 468
+Whirlpool : 314
+McDonald's : 0
+Broadcom : 1
+Marriott International : 0
+Western Digital : 409
+Visa : 247
+Lennar : 0
+WellCare Health Plans : 0
+Kohl's : 0
+AECOM : 2
+Synnex : 0
+PNC Financial Services : 8
+Danaher : 0
+Hartford Financial Services : 0
+Altria Group : 0
+Bank of New York Mellon : 3
+Fluor : 29
+Avnet : 0
+Icahn Enterprises : 0
+Occidental Petroleum : 0
+Molina Healthcare : 0
+Genuine Parts : 0
+Freeport-McMoRan : 5
+Kimberly-Clark : 87
+Tenet Healthcare : 0
+Synchrony Financial : 0
+CarMax : 0
+HollyFrontier : 0
+Performance Food Group : 0
+Sherwin-Williams : 29
+Emerson Electric : 37
+NGL Energy Partners : 0
+XPO Logistics : 1
+EOG Resources : 4
+Applied Materials : 653
+PG&E : 0
+NextEra Energy : 0
+C.H. Robinson Worldwide : 0
+Gap : 744
+Lincoln National : 0
+DaVita : 7
+Jones Lang LaSalle : 0
+WestRock : 28
+CDW : 0
+American Electric Power : 0
+Cognizant Technology Solutions : 19
+D.R. Horton : 0
+Becton Dickinson : 35
+Nordstrom : 0
+Netflix : 47
+Aramark : 0
+Texas Instruments : 884
+General Mills : 18
+Supervalu : 0
+Colgate-Palmolive : 178
+Goodyear Tire & Rubber : 50
+PayPal Holdings : 0
+PPG Industries : 54
+Omnicom Group : 0
+Celgene : 51
+Jacobs Engineering Group : 0
+Ross Stores : 0
+Marsh & McLennan : 0
+Mastercard : 259
+Land O'Lakes : 4
+Waste Management : 0
+Illinois Tool Works : 280
+Ecolab : 196
+Booking Holdings : 0
+CBS : 10
+Parker-Hannifin : 47
+Principal Financial : 0
+DTE Energy : 0
+BlackRock : 1
+United States Steel : 2
+Community Health Systems : 0
+Kinder Morgan : 1
+Qurate Retail : 0
+Loews : 0
+Arconic : 28
+Stanley Black & Decker : 12
+Textron : 219
+Las Vegas Sands : 1
+Estee Lauder : 0
+DISH Network : 15
+Stryker : 183
+Kellogg : 8
+Biogen : 40
+Alcoa : 7
+Anadarko Petroleum : 0
+Dominion Energy : 4
+ADP : 66
+salesforce.com : 336
+L Brands : 6
+Henry Schein : 0
+Newell Brands : 0
+Guardian Life Ins. Co. of America : 0
+BJ's Wholesale Club : 0
+BB&T Corp. : 0
+State Street Corp. : 0
+Viacom : 7
+Ameriprise Financial : 1
+Core-Mark Holding : 0
+Reinsurance Group of America : 0
+VF : 26
+Discover Financial Services : 0
+Global Partners : 1
+Edison International : 0
+Oneok : 0
+Murphy USA : 0
+Bed Bath & Beyond : 0
+Consolidated Edison : 5
+CSX : 0
+J.C. Penney : 0
+LKQ : 0
+FirstEnergy : 0
+Steel Dynamics : 1
+Lithia Motors : 2
+MGM Resorts International : 0
+Tenneco : 75
+Nvidia : 164
+Sempra Energy : 1
+Farmers Insurance Exchange : 0
+Ball : 209
+Group 1 Automotive : 0
+Unum Group : 0
+Xcel Energy : 0
+Reliance Steel & Aluminum : 0
+Huntsman : 25
+Norfolk Southern : 1
+Laboratory Corp. of America : 0
+Corning : 601
+Expedia Group : 0
+AutoZone : 6
+W.W. Grainger : 5
+Quanta Services : 0
+Crown Holdings : 1
+Office Depot : 0
+Baxter International : 63
+Lam Research : 237
+Entergy : 1
+Charles Schwab : 7
+L3 Technologies : 8
+NRG Energy : 0
+Live Nation Entertainment : 21
+Universal Health Services : 0
+Molson Coors Brewing : 0
+eBay : 269
+AES : 108
+Devon Energy : 1
+Pacific Life : 0
+CenterPoint Energy : 0
+Discovery : 67
+BorgWarner : 182
+Targa Resources : 0
+Ally Financial : 0
+SunTrust Banks : 0
+IQVIA Holdings : 0
+American Family Insurance Group : 4
+Delek US Holdings : 0
+Navistar International : 0
+Chesapeake Energy : 1
+United Natural Foods : 0
+Leidos Holdings : 0
+PulteGroup : 0
+Eastman Chemical : 30
+Republic Services : 0
+Mohawk Industries : 2
+Sonic Automotive : 26
+Owens & Minor : 0
+Xerox : 831
+Boston Scientific : 407
+DCP Midstream : 0
+Autoliv : 80
+Interpublic Group : 0
+Public Service Enterprise Group : 0
+PVH : 0
+Mosaic : 6
+Advance Auto Parts : 0
+Altice USA : 0
+Hormel Foods : 0
+O'Reilly Automotive : 0
+Calpine : 3
+Hertz Global Holdings : 0
+First Data : 16
+Pioneer Natural Resources : 1
+Coty : 3
+AGCO : 66
+Mutual of Omaha Insurance : 0
+Vistra Energy : 0
+Avis Budget Group : 0
+Adobe : 476
+Peter Kiewit Sons' : 0
+News Corp. : 0
+Brighthouse Financial : 0
+Voya Financial : 0
+Air Products & Chemicals : 0
+Hilton Worldwide Holdings : 0
+GameStop : 0
+Veritiv : 0
+Williams : 49
+Campbell Soup : 2
+Rockwell Collins : 149
+Thrivent Financial for Lutherans : 0
+Westlake Chemical : 0
+Univar : 1
+J.B. Hunt Transport Services : 0
+Frontier Communications : 1
+Jones Financial (Edward Jones) : 0
+National Oilwell Varco : 33
+Eversource Energy : 0
+Dick's Sporting Goods : 3
+Genworth Financial : 0
+Fidelity National Information Services : 1
+Yum China Holdings : 0
+Ryder System : 0
+Anixter International : 0
+Caesars Entertainment : 0
+Masco : 3
+Thor Industries : 0
+Alaska Air Group : 0
+Amphenol : 52
+WESCO International : 0
+Huntington Ingalls Industries : 0
+Jefferies Financial Group : 0
+Dana : 137
+Expeditors Intl. of Washington : 0
+EMCOR Group : 0
+Darden Restaurants : 0
+SpartanNash : 0
+Assurant : 4
+United Rentals : 2
+Liberty Media : 0
+Erie Insurance Group : 0
+Auto-Owners Insurance : 0
+Cheniere Energy : 0
+Fifth Third Bancorp : 0
+Foot Locker : 0
+Conagra Brands : 0
+Zimmer Biomet Holdings : 0
+Tractor Supply : 2
+Berry Global Group : 0
+Alliance Data Systems : 0
+Hershey : 0
+PPL : 4203
+Dean Foods : 1
+Builders FirstSource : 0
+Oshkosh : 40
+EnLink Midstream : 0
+W.R. Berkley : 0
+WEC Energy Group : 0
+JetBlue Airways : 0
+UGI : 20
+A-Mark Precious Metals : 0
+Fidelity National Financial : 0
+Constellation Brands : 0
+Quest Diagnostics : 37
+Activision Blizzard : 0
+Weyerhaeuser : 1
+Raymond James Financial : 0
+Casey's General Stores : 0
+Keurig Dr Pepper : 0
+American Tower : 0
+Apache : 8
+Dover : 24
+KeyCorp : 0
+J.M. Smucker : 0
+Citizens Financial Group : 0
+Motorola Solutions : 179
+Magellan Health : 0
+American Axle & Manufacturing : 20
+Newmont Goldcorp : 0
+Spirit AeroSystems Holdings : 1
+Western & Southern Financial Group : 0
+Fortive : 0
+Graybar Electric : 0
+NVR : 0
+Avery Dennison : 62
+Celanese : 12
+American Financial Group : 0
+Toll Brothers : 0
+Sanmina : 17
+Insight Enterprises : 0
+Owens Corning : 35
+Packaging Corp. of America : 0
+TravelCenters of America : 0
+Olin : 296
+Arthur J. Gallagher : 0
+MasTec : 0
+Alleghany : 0
+Owens-Illinois : 0
+Asbury Automotive Group : 0
+CMS Energy : 0
+Markel : 0
+Blackstone Group : 0
+AK Steel Holding : 0
+Hanesbrands : 0
+R.R. Donnelley & Sons : 9
+Wayfair : 1
+Regions Financial : 0
+Wynn Resorts : 0
+Ulta Beauty : 0
+Regeneron Pharmaceuticals : 86
+Burlington Stores : 0
+Rockwell Automation : 155
+Northern Trust : 0
+Chemours : 37
+Seaboard : 3
+Marathon Oil : 0
+Ascena Retail Group : 0
+Dillard's : 0
+Cintas : 1
+Advanced Micro Devices : 205
+Hess : 3
+M&T Bank Corp. : 0
+ABM Industries : 0
+Beacon Roofing Supply : 0
+NCR : 161
+iHeartMedia : 25
+Franklin Resources : 0
+Ameren : 0
+Intercontinental Exchange : 3
+S&P Global : 0
+Post Holdings : 0
+Analog Devices : 224
+Ralph Lauren : 0
+Harris : 48
+Booz Allen Hamilton : 9
+Polaris Industries : 39
+Clorox : 21
+Realogy Holdings : 0
+HD Supply Holdings : 0
+Graphic Packaging Holding : 0
+Old Republic International : 0
+Intuit : 358
+NetApp : 174
+Tapestry : 2
+ON Semiconductor : 15
+Ingredion : 0
+Zoetis : 23
+Fiserv : 4
+TreeHouse Foods : 0
+Robert Half International : 0
+First American Financial : 1
+Harley-Davidson : 21
+Windstream Holdings : 0
+Yum Brands : 0
+Williams-Sonoma : 1
+Simon Property Group : 0
+Navient : 0
+Western Union : 19
+Peabody Energy : 0
+Levi Strauss : 2
+Avon Products : 4
+Host Hotels & Resorts : 0
+Kelly Services : 0
+Rush Enterprises : 0
+Spectrum Brands Holdings : 0
+Securian Financial Group : 0
+Diplomat Pharmacy : 0
+Fortune Brands Home & Security : 0
+TD Ameritrade Holding : 0
+Patterson : 3
+Domtar : 0
+FM Global : 0
+Crown Castle International : 0
+McCormick : 3
+Cincinnati Financial : 0
+Hanover Insurance Group : 0
+Conduent : 66
+Sonoco Products : 0
+T. Rowe Price : 0
+Cerner : 88
+Knight-Swift Transportation Holdings : 0
+RPM International : 0
+Michaels Cos. : 0
+Huntington Bancshares : 1
+Big Lots : 0
+KKR : 0
+Sprouts Farmers Market : 0
+Xylem : 20
+Under Armour : 52
+Roper Technologies : 0
+LPL Financial Holdings : 0
+Brunswick : 94
+Electronic Arts : 89
+Terex : 10
+NiSource : 0
+Telephone & Data Systems : 0
+YRC Worldwide : 0
+Select Medical Holdings : 0
+Equinix : 21
+Boise Cascade : 0
+Noble Energy : 0
+Schneider National : 0
+Genesis Healthcare : 0
+Fastenal : 0
+Commercial Metals : 0
+EQT : 1
+Agilent Technologies : 49
+KBR : 1
+Neiman M : 0
+Chipotle Mexican Grill : 0
+Ametek : 5
+Camping World Holdings : 0
+Smart & Final Stores : 0
+Sealed Air : 4
+FMC : 41
+Continental Resources : 0
+Welltower : 0
+Skechers U.S.A. : 1
+Science Applications International : 4
+Wyndham Destinations : 0
+Juniper Networks : 290
+Coca-Cola Consolidated : 0
+Landstar System : 0
+National General Holdings : 0
+ADT : 159
+Hasbro : 7
+Diebold Nixdorf : 12
+CommScope Holding : 0
+Carlisle : 13
+KB Home : 0
+Watsco : 0
+Brookdale Senior Living : 0
+MDU Resources Group : 0
+Mattel : 20
+Universal Forest Products : 1
+Hubbell : 155
+CACI International : 0
+Tutor Perini : 0
+Hyatt Hotels : 0
+Silgan Holdings : 1
+Moody's : 0
+Tiffany : 0
+CF Industries Holdings : 0
+Hub Group : 0
+Ryerson Holding : 0
+Syneos Health : 0
+Vulcan Materials : 0
+Westinghouse Air Brake : 22
+JELD-WEN Holding : 0
+Broadridge Financial Solutions : 2
+Amkor Technology : 59
+CNO Financial Group : 0
+CME Group : 0
+Torchmark : 0
+Encompass Health : 0
+Nasdaq : 20
+Evergy : 0
+Leggett & Platt : 4
+IAC/InterActiveCorp : 0
+Martin Marietta Materials : 0
+CA : 31979
+OneMain Holdings : 0
+Taylor Morrison Home : 0
+Iron Mountain : 1
+Laureate Education : 2
+Zebra Technologies : 40
+Quad/Graphics : 4
+Meritor : 40
+MRC Global : 0
+Concho Resources : 0
+Church & Dwight : 7
+Antero Resources : 0
+Alexion Pharmaceuticals : 10
+Bloomin' Brands : 0
+Buckeye Partners : 0
+Ingles Markets : 0
+Bemis : 12
+Snap-on : 52
+SCANA : 2
+Allegheny Technologies : 0
+Old Dominion Freight Line : 0
+KLA-Tencor : 217
+American Eagle Outfitters : 0
+Nexeo Solutions : 0
+Total System Services : 1
+Warner Music Group : 0
+Dentsply Sirona : 47
+Microchip Technology : 92
+International Flavors & Fragrances : 14
+Gartner : 2
+Element Solutions : 0
+Flowers Foods : 0
+Urban Outfitters : 0
+Sally Beauty Holdings : 0
+Worldpay : 32
+Lennox International : 0
+Keysight Technologies : 81
+Greif : 3
+Skyworks Solutions : 269
+Sabre : 7
+Southwestern Energy : 0
+ScanSource : 0
+Green Plains : 0
+Flowserve : 11
+WABCO Holdings : 0
+Aaron's : 0
+Insperity : 0
+LSC Communications : 1
+TransDigm Group : 0
+Monster Beverage : 1
+Hexion : 5
+Edwards Lifesciences : 144
+Sprague Resources : 0
+Kar Auction Services : 0
+Resolute Forest Products : 0
+Ventas : 6
+Ashland Global Holdings : 0
+Pitney Bowes : 0
+Kemper : 1
+Intuitive Surgical : 176
+CUNA Mutual Group : 0
+Pinnacle West Capital : 0
+BMC Stock Holdings : 0
+Acuity Brands : 0
+Colfax : 0
+Barnes & Noble : 3
+Crestwood Equity Partners : 0
+Mednax : 0
+Regal Beloit : 47
+Country Financial : 0
+Cooper-Standard Holdings : 0
+Amerco : 0
+Comerica : 0
+Abercrombie & Fitch : 0
+Penn National Gaming : 0
+Worthington Industries : 9
+Timken : 6
+First Republic Bank : 0
+Alliant Energy : 0
+PolyOne : 11
+Meritage Homes : 0
+Weis Markets : 0
+TriNet Group : 0
+Sentry Insurance Group : 0
+Calumet Specialty Products : 0
+Brink's : 0
+Stericycle : 0
+Carter's : 0
+Aleris : 10
+American Water Works : 0
+Domino's Pizza : 0
+Enable Midstream Partners : 0
+Lamb Weston Holdings : 0
+SS&C Technologies Holdings : 0
+Equifax : 8
+Par Pacific Holdings : 0
+ASGN : 0
+Darling Ingredients : 0
+Paychex : 0
+Mercury General : 0
+Albemarle : 5
+Global Payments : 3
+Scientific Games : 15
+Puget Energy : 0
+Crane : 61
+USG : 131
+Illumina : 94
+Patterson-UTI Energy : 0
+American National Insurance : 0
+Spirit Airlines : 1
+Granite Construction : 0
+CIT Group : 0
+Clean Harbors : 1
+Square : 206
+Range Resources : 0
+TRI Pointe Group : 0
+Medical Mutual of Ohio : 0
+Brown-Forman : 0
+Cabot : 27
+Tailored Brands : 0
+Sanderson Farms : 0
+Penn Mutual Life Insurance : 0
+Cinemark Holdings : 0
+SkyWest : 0
+Hologic : 39
+MSC Industrial Direct : 0
+Triumph Group : 0
+Stifel Financial : 0
+Service Corp. International : 0
+A.O. Smith : 0
+Designer Brands : 0
+Hyster-Yale Materials Handling : 0
+PriceSmart : 0
+H&R Block : 0
+Legg Mason : 0
+Brinker International : 0
+Dycom Industries : 0
+NOW : 209
+Synopsys : 151
+Infor : 410
+Atmos Energy : 0
+Trimble : 56
+Ciena : 119
+ArcBest : 0
+G-III Apparel Group : 0
+Applied Industrial Technologies : 0
+MDC Holdings : 0
+California Resources : 0
+Steelcase : 42
+Sinclair Broadcast Group : 6
+Vertex Pharmaceuticals : 22
+Digital Realty Trust : 0
+Andersons : 0
+Mutual of America Life Insurance : 0
+Twitter : 51
+H.B. Fuller : 10
+E*Trade Financial : 4
+Vishay Intertechnology : 0
+Zions Bancorp. : 0
+Cracker Barrel Old Country Store : 0
+Lincoln Electric Holdings : 0
+Acadia Healthcare : 0
+Pool : 373
+Triple-S Management : 0
+Visteon : 40
+Citrix Systems : 142
+Qorvo : 180
+AMC Networks : 0
+Kirby : 0
+Marriott Vacations Worldwide : 0
+Hain Celestial Group : 0
+Tetra Tech : 7
+Primoris Services : 0
+Mettler-Toledo International : 0
+Red Hat : 314
+Varian Medical Systems : 81
+Gannett : 0
+New Jersey Resources : 0
+Genesis Energy : 0
+Genesco : 0
+Teledyne Technologies : 0
+Southwest Gas Holdings : 0
+Plexus : 5
+PRA Health Sciences : 0
+BlueLinx Holdings : 0
+Hawaiian Electric Industries : 0
+Presidio : 3
+Avaya Holdings : 0
+Hill-Rom Holdings : 0
+TTM Technologies : 0
+Hawaiian Holdings : 0
+Caleres : 0
+Louisiana-Pacific : 1
+Magellan Midstream Partners : 0
+Unisys : 22
+Workday : 30
+Cooper Tire & Rubber : 2
+Prologis : 0
+Columbia Sportswear : 2
+Univision Communications : 0
+PerkinElmer : 32
+Cboe Global Markets : 0
+Nexstar Media Group : 0
+AptarGroup : 12
+Valmont Industries : 9
+Public Storage : 0
+ITT : 780
+Park Hotels & Resorts : 0
+Donaldson : 58
+Tempur Sealy International : 0
+Middleby : 4
+Boston Properties : 0
+SVB Financial Group : 0
+Akamai Technologies : 40
+Kansas City Southern : 0
+Allison Transmission Holdings : 0
+Moog : 31
+MPM Holdings : 0
+PC Connection : 1
+Graham Holdings : 1
+Gardner Denver : 1
+Amica Mutual Insurance : 0
+Verso : 3
+Nu Skin Enterprises : 0
+Atlas Air Worldwide Holdings : 0
+Popular : 0
+Colony Capital : 0
+Scotts Miracle-Gro : 0
+Rent-A-Center : 0
+GoDaddy : 0
+Newfield Exploration : 0
+Groupon : 81
+Boyd Gaming : 0
+Toro : 472
+Guess : 0
+ServiceNow : 91
+Zayo Group Holdings : 0
+Selective Insurance Group : 0
+Belden : 13
+EnerSys : 2
+Equity Residential : 0
+Murphy Oil : 0
+Autodesk : 76
+Benchmark Electronics : 1
+Revlon : 2
+Fossil Group : 1
+Xilinx : 167
+Euronet Worldwide : 0
+Cooper Cos. : 0
+Greenbrier Cos. : 0
+GMS : 1
+Meredith : 0
+Trinity Industries : 0
+Mueller Industries : 1
+RH : 289
+SemGroup : 0
+TrueBlue : 0
+Helmerich & Payne : 2
+J.Crew Group : 0
+Cypress Semiconductor : 101
+IDEX : 48
+Maxim Integrated Products : 48
+LCI Industries : 0
+Catalent : 1
+Cleveland-Cliffs : 0
+Werner Enterprises : 0
+Texas Roadhouse : 0
+Arch Coal : 0
+Teleflex : 43
+Echo Global Logistics : 0
+FleetCor Technologies : 0
+Party City Holdco : 0
+Carlyle Group : 0
+Waters : 74
+Curtiss-Wright : 2
+Verisk Analytics : 0
+Maximus : 1
+Renewable Energy Group : 1
+Ohio National Mutual : 0
+WPX Energy : 0
+TopBuild : 0
+REV Group : 0
+Herman Miller : 10
+Affiliated Managers Group : 0
+Itron : 83
+Kennametal : 54
+Interactive Brokers Group : 0
+Schnitzer Steel Industries : 0
+BrightView Holdings : 0
+GNC Holdings : 0
+Genesee & Wyoming : 0
+WGL Holdings : 0
+ResMed : 118
+Cimarex Energy : 0
+Cheesecake Factory : 0
+GEO Group : 0
+Woodward : 33
+Oasis Petroleum : 0
+Knights of Columbus : 0
+TransUnion : 0
+Foundation Building Materials : 0
+Vista Outdoor : 28
+Hospitality Properties Trust : 0
+NewMarket : 0
+Bio-Rad Laboratories : 52
+M/I Homes : 0
+Valvoline : 3
+AvalonBay Communities : 0
+Annaly Capital Management : 0
+CDK Global : 2
+Palo Alto Networks : 44
+OGE Energy : 0
+First Horizon National Corp. : 6
+Wabash National : 13
+Charles River Laboratories International : 0
+Patrick Industries : 0
+HNI : 881
+Nordson : 43
+First Solar : 5
+Wolverine World Wide : 0
+New Residential Investment : 0
+Edgewell Personal Care : 14
+Matson : 0
+Tower International : 0
+C&J Energy Services : 0
+Roadrunner Transportation Systems : 0
+Central Garden & Pet : 0
+IDEXX Laboratories : 4
+TEGNA : 0
+Barnes & Noble Education : 0
+Hexcel : 10
+Cabot Oil & Gas : 0
+Comfort Systems USA : 0
+Diamondback Energy : 0
+Vornado Realty Trust : 0
+Teradata : 16
+PCM : 8
+F5 Networks : 27
+Carpenter Technology : 1
+Lyft : 51
+Liberty Oilfield Services : 0
+Arista Networks : 38
+Delta Tucker Holdings : 0
+Century Communities : 0
+Griffon : 0
+Maxar Technologies : 0
+Cadence Design Systems : 189
+Keane Group : 0
+AMN Healthcare Services : 0
+Rayonier Advanced Materials : 0
+Chico's FAS : 0
+Superior Energy Services : 4
+Express : 120
+SiteOne Landscape Supply : 0
+Beazer Homes USA : 0
+Allscripts Healthcare Solutions : 0
+Modine Manufacturing : 18
+Summit Materials : 0
+Teradyne : 12
+EchoStar : 12
+SPX FLOW : 3
+William Lyon Homes : 0
+Evercore : 0
+Whiting Petroleum : 0
+MKS Instruments : 17
+Ferrellgas Partners : 0
+Tupperware Brands : 0
+SM Energy : 0
+Rexnord : 9
+Eldorado Resorts : 0
+Nuance Communications : 62
+Newmark Group : 0
+Ensign Group : 0
+Esterline Technologies : 0
+Universal : 284
+Contura Energy : 0
+FTI Consulting : 0
+Generac Holdings : 0
+Winnebago Industries : 0
+Brown & Brown : 0
+Kraton : 14
+Vail Resorts : 0
+Tribune Media : 1
+Healthcare Services Group : 0
+Alliance Resource Partners : 0
+NCI Building Systems : 0
+Hilton Grand Vacations : 0
+Deluxe : 4
+Stepan : 9
+Hovnanian Enterprises : 0
+Portland General Electric : 0
+HC2 Holdings : 0
+Herc Holdings : 0
+Align Technology : 67
+Spire : 37
+Shutterfly : 9
+NuStar Energy : 0
+ManTech International : 0
+Carvanaternational : 0
+Carvana : 3

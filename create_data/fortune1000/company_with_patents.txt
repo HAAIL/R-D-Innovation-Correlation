@@ -1,0 +1,432 @@
+Walmart Apollo, LLC
+ExxonMobil
+Apple Inc.
+Amazon
+UnitedHealth Group
+McKesson
+AT&T
+AmerisourceBergen
+Chevron
+Ford Motor
+General Motors
+Alphabet
+Cardinal Health
+JPMorgan Chase
+Verizon Communications
+General Electric
+Phillips 66
+Bank of America
+Microsoft
+Home Depot
+Boeing
+Wells Fargo
+Citigroup
+Marathon Petroleum
+Comcast
+Anthem
+Johnson & Johnson
+IBM
+Target
+Freddie Mac
+United Parcel Service
+Lowe's
+Intel
+Procter & Gamble
+United Technologies
+FedEx
+PepsiCo
+Archer Daniels Midland
+HP
+Humana
+Facebook
+Caterpillar
+Lockheed Martin
+Pfizer
+Morgan Stanley
+Cigna
+AIG
+Delta Air Lines
+Charter Communications
+New York Life Insurance
+American Express
+Nationwide
+Merck
+Honeywell International
+Tyson Foods
+Oracle
+Allstate
+Massachusetts Mutual Life Insurance
+ConocoPhillips
+Deere
+Nike
+General Dynamics
+3M
+AbbVie
+CHS
+Capital One Financial
+Progressive
+Coca-Cola
+USAA
+Hewlett Packard Enterprise
+Abbott Laboratories
+Micron Technology
+Travelers
+Rite Aid
+Northrop Grumman
+Raytheon
+U.S. Bancorp
+Nucor
+Starbucks
+Eli Lilly
+Thermo Fisher Scientific
+Duke Energy
+Halliburton
+Cummins
+Amgen
+Paccar
+Southern
+CenturyLink
+International Paper
+Union Pacific
+Qualcomm
+Bristol-Myers Squibb
+Gilead Sciences
+Jabil
+Southwest Airlines
+Tesla
+Lear
+Whirlpool
+Broadcom
+Western Digital
+Visa
+AECOM
+PNC Financial Services
+Bank of New York Mellon
+Fluor
+Freeport-McMoRan
+Kimberly-Clark
+Sherwin-Williams
+Emerson Electric
+XPO Logistics
+EOG Resources
+Applied Materials
+Gap
+DaVita
+WestRock
+Cognizant Technology Solutions
+Becton Dickinson
+Netflix
+Texas Instruments
+General Mills
+Colgate-Palmolive
+Goodyear Tire & Rubber
+PPG Industries
+Celgene
+Mastercard
+Land O'Lakes
+Illinois Tool Works
+Ecolab
+CBS
+Parker-Hannifin
+BlackRock
+United States Steel
+Kinder Morgan
+Arconic
+Stanley Black & Decker
+Textron
+Las Vegas Sands
+DISH Network
+Stryker
+Kellogg
+Biogen
+Alcoa
+Dominion Energy
+ADP
+salesforce.com
+L Brands
+Viacom
+Ameriprise Financial
+VF
+Global Partners
+Consolidated Edison
+Steel Dynamics
+Lithia Motors
+Tenneco
+Nvidia
+Sempra Energy
+Ball
+Huntsman
+Norfolk Southern
+Corning
+AutoZone
+W.W. Grainger
+Crown Holdings
+Baxter International
+Lam Research
+Entergy
+Charles Schwab
+L3 Technologies
+Live Nation Entertainment
+eBay
+AES
+Devon Energy
+Discovery
+BorgWarner
+American Family Insurance Group
+Chesapeake Energy
+Eastman Chemical
+Mohawk Industries
+Sonic Automotive
+Xerox
+Boston Scientific
+Autoliv
+Mosaic
+Calpine
+First Data
+Pioneer Natural Resources
+Coty
+AGCO
+Adobe
+Williams
+Campbell Soup
+Rockwell Collins
+Univar
+Frontier Communications
+National Oilwell Varco
+Dick's Sporting Goods
+Fidelity National Information Services
+Masco
+Amphenol
+Dana
+Assurant
+United Rentals
+Tractor Supply
+PPL
+Dean Foods
+Oshkosh
+UGI
+Quest Diagnostics
+Weyerhaeuser
+Apache
+Dover
+Motorola Solutions
+American Axle & Manufacturing
+Spirit AeroSystems Holdings
+Avery Dennison
+Celanese
+Sanmina
+Owens Corning
+Olin
+R.R. Donnelley & Sons
+Wayfair
+Regeneron Pharmaceuticals
+Rockwell Automation
+Chemours
+Seaboard
+Cintas
+Advanced Micro Devices
+Hess
+NCR
+iHeartMedia
+Intercontinental Exchange
+Analog Devices
+Harris
+Booz Allen Hamilton
+Polaris Industries
+Clorox
+Intuit
+NetApp
+Tapestry
+ON Semiconductor
+Zoetis
+Fiserv
+First American Financial
+Harley-Davidson
+Williams-Sonoma
+Western Union
+Levi Strauss
+Avon Products
+Patterson
+McCormick
+Conduent
+Cerner
+Huntington Bancshares
+Xylem
+Under Armour
+Brunswick
+Electronic Arts
+Terex
+Equinix
+EQT
+Agilent Technologies
+KBR
+Ametek
+Sealed Air
+FMC
+Skechers U.S.A.
+Science Applications International
+Juniper Networks
+ADT
+Hasbro
+Diebold Nixdorf
+Carlisle
+Mattel
+Universal Forest Products
+Hubbell
+Silgan Holdings
+Westinghouse Air Brake
+Broadridge Financial Solutions
+Amkor Technology
+Nasdaq
+Leggett & Platt
+CA
+Iron Mountain
+Laureate Education
+Zebra Technologies
+Quad/Graphics
+Meritor
+Church & Dwight
+Alexion Pharmaceuticals
+Bemis
+Snap-on
+SCANA
+KLA-Tencor
+Total System Services
+Dentsply Sirona
+Microchip Technology
+International Flavors & Fragrances
+Gartner
+Worldpay
+Keysight Technologies
+Greif
+Skyworks Solutions
+Sabre
+Flowserve
+LSC Communications
+Monster Beverage
+Hexion
+Edwards Lifesciences
+Ventas
+Kemper
+Intuitive Surgical
+Barnes & Noble
+Regal Beloit
+Worthington Industries
+Timken
+PolyOne
+Aleris
+Equifax
+Albemarle
+Global Payments
+Scientific Games
+Crane
+USG
+Illumina
+Spirit Airlines
+Clean Harbors
+Square
+Cabot
+Hologic
+NOW
+Synopsys
+Infor
+Trimble
+Ciena
+Steelcase
+Sinclair Broadcast Group
+Vertex Pharmaceuticals
+Twitter
+H.B. Fuller
+E*Trade Financial
+Pool
+Visteon
+Citrix Systems
+Qorvo
+Tetra Tech
+Red Hat
+Varian Medical Systems
+Plexus
+Presidio
+Louisiana-Pacific
+Unisys
+Workday
+Cooper Tire & Rubber
+Columbia Sportswear
+PerkinElmer
+AptarGroup
+Valmont Industries
+ITT
+Donaldson
+Middleby
+Akamai Technologies
+Moog
+PC Connection
+Graham Holdings
+Gardner Denver
+Verso
+Groupon
+Toro
+ServiceNow
+Belden
+EnerSys
+Autodesk
+Benchmark Electronics
+Revlon
+Fossil Group
+Xilinx
+GMS
+Mueller Industries
+RH
+Helmerich & Payne
+Cypress Semiconductor
+IDEX
+Maxim Integrated Products
+Catalent
+Teleflex
+Waters
+Curtiss-Wright
+Maximus
+Renewable Energy Group
+Herman Miller
+Itron
+Kennametal
+ResMed
+Woodward
+Vista Outdoor
+Bio-Rad Laboratories
+Valvoline
+CDK Global
+Palo Alto Networks
+First Horizon National Corp.
+Wabash National
+HNI
+Nordson
+First Solar
+Edgewell Personal Care
+IDEXX Laboratories
+Hexcel
+Teradata
+PCM
+F5 Networks
+Carpenter Technology
+Lyft
+Arista Networks
+Cadence Design Systems
+Superior Energy Services
+Express
+Modine Manufacturing
+Teradyne
+EchoStar
+SPX FLOW
+MKS Instruments
+Rexnord
+Nuance Communications
+Universal
+Kraton
+Tribune Media
+Deluxe
+Stepan
+Align Technology
+Spire
+Shutterfly
+Carvana

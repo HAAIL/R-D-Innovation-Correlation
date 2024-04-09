@@ -1,0 +1,105 @@
+Walmart Apollo, LLC : 409
+ExxonMobil : 351
+Apple Inc. : 2597
+Berkshire Hathaway : 0
+Amazon : 2417
+UnitedHealth Group : 2
+McKesson : 12
+CVS Health : 0
+AT&T : 1303
+AmerisourceBergen : 1
+Chevron : 188
+Ford Motor : 52
+General Motors : 21
+Costco Wholesale : 0
+Alphabet : 2
+Cardinal Health : 6
+Walgreens Boots Alliance : 0
+JPMorgan Chase : 101
+Verizon Communications : 6
+Kroger : 0
+General Electric : 1888
+Fannie Mae : 0
+Phillips 66 : 45
+Valero Energy : 0
+Bank of America : 403
+Microsoft : 3056
+Home Depot : 9
+Boeing : 1361
+Wells Fargo : 149
+Citigroup : 6
+Marathon Petroleum : 7
+Comcast : 194
+Anthem : 1
+Dell Technologies : 0
+DuPont de Nemours : 0
+State Farm Insurance : 0
+Johnson & Johnson : 139
+IBM : 1
+Target : 72
+Freddie Mac : 7
+United Parcel Service : 61
+Lowe's : 6
+Intel : 7540
+MetLife : 0
+Procter & Gamble : 466
+United Technologies : 1232
+FedEx : 30
+PepsiCo : 28
+Archer Daniels Midland : 12
+Prudential Financial : 0
+Centene : 0
+Albertsons : 0
+Walt Disney : 0
+Sysco : 0
+HP : 209
+Humana : 6
+Facebook : 1323
+Caterpillar : 473
+Energy Transfer : 0
+Lockheed Martin : 184
+Pfizer : 53
+Goldman Sachs Group : 0
+Morgan Stanley : 3
+Cisco Systems : 0
+Cigna : 2
+AIG : 17
+HCA Healthcare : 0
+American Airlines Group : 0
+Delta Air Lines : 2
+Charter Communications : 21
+New York Life Insurance : 2
+American Express : 61
+Nationwide : 19
+Best Buy : 0
+Liberty Mutual Insurance Group : 0
+Merck : 297
+Honeywell International : 700
+United Continental Holdings : 0
+TIAA : 0
+Tyson Foods : 5
+Oracle : 848
+Allstate : 113
+World Fuel Services : 0
+Massachusetts Mutual Life Insurance : 46
+TJX : 0
+ConocoPhillips : 63
+Deere : 333
+Tech Data : 0
+Enterprise Products Partners : 0
+Nike : 478
+Publix Super Markets : 0
+General Dynamics : 7
+Exelon : 0
+Plains GP Holdings : 0
+3M : 598
+AbbVie : 52
+CHS : 279
+Capital One Financial : 4
+Progressive : 23
+Coca-Cola : 29
+USAA : 204
+Hewlett Packard Enterprise : 770
+Abbott Laboratories : 50
+Twenty-First Century Fox : 0
+Micron Technology : 1276

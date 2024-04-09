@@ -1,11 +1,11 @@
-Walmart
-Exxon Mobil
-Apple
+Walmart Apollo, LLC
+ExxonMobil
+Apple Inc.
 Berkshire Hathaway
-Amazon.com
+Amazon
 UnitedHealth Group
 McKesson
-CVS Health
+CVS
 AT&T
 AmerisourceBergen
 Chevron
@@ -31,7 +31,7 @@ Citigroup
 Marathon Petroleum
 Comcast
 Anthem
-Dell Technologies
+Dell
 DuPont de Nemours
 State Farm Insurance
 Johnson & Johnson
@@ -599,7 +599,7 @@ Evergy
 Leggett & Platt
 IAC/InterActiveCorp
 Martin Marietta Materials
-CA
+CA Technologies, INC.
 OneMain Holdings
 Taylor Morrison Home
 Iron Mountain
